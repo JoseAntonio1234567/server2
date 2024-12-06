@@ -48,28 +48,28 @@
 [alignment]
 	#Points for freeing a soul in a receptacle [0..500|default:50]
 	#Range: 0 ~ 500
-	points_free_soul_receptacle = 50
+	points_free_soul_receptacle = 10
 	#Points for plundering a player's grave [-500..0|default:-10]
 	#Range: -500 ~ 0
-	points_plunder_player_grave = -10
+	points_plunder_player_grave = -2
 	#Points for zombie villager exorcism [0..500|default:20]
 	#Range: 0 ~ 500
-	points_exorcism_zombie_villager = 20
+	points_exorcism_zombie_villager = 3
+	#Points for killing a villager [-500..0|default:-15]
+	#Range: -500 ~ 0
+	points_kill_villager = -3
+	#Points for killing a raider [0..500|default:5]
+	#Range: 0 ~ 500
+	points_kill_raider = 1
+	#Points for tablet of cupidity [-500..0|default:-10]
+	#Range: -500 ~ 0
+	points_tablet_of_cupidity = -2
+	#Points for Pray of Protection [0..500|default:20]
+	#Range: 0 ~ 500
+	points_pray_of_protection = 2
 	#Points for zombifying a villager [-500..0|default:-20]
 	#Range: -500 ~ 0
 	points_zombify_villager = -20
-	#Points for killing a villager [-500..0|default:-15]
-	#Range: -500 ~ 0
-	points_kill_villager = -15
-	#Points for killing a raider [0..500|default:5]
-	#Range: 0 ~ 500
-	points_kill_raider = 5
-	#Points for tablet of cupidity [-500..0|default:-10]
-	#Range: -500 ~ 0
-	points_tablet_of_cupidity = -10
-	#Points for Pray of Protection [0..500|default:20]
-	#Range: 0 ~ 500
-	points_pray_of_protection = 20
 	#Points for using a Potion of Earthly Garden [0..500|default:10]
 	#Range: 0 ~ 500
 	points_earthly_garden = 10
@@ -177,7 +177,7 @@
 	nerf_plague_bringer = true
 	#Maximum duration of stolen effects in minutes [1..MAX|default:10]
 	#Range: > 1
-	max_duration_magic_siphon = 10
+	max_duration_magic_siphon = 60
 	#Duration of applied effects in seconds [1..MAX|default:10]
 	#Range: > 1
 	duration_plague_bringer = 10
