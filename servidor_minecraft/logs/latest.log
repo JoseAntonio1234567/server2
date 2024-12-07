@@ -2124,3 +2124,12 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [07Dec2024 17:37:48.007] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [07Dec2024 17:38:11.019] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [07Dec2024 17:38:36.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[07Dec2024 18:00:27.766] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[07Dec2024 18:00:30.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[07Dec2024 18:00:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Strong or Careful]
+[07Dec2024 18:00:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was shot by Skeleton
+[07Dec2024 18:00:30.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[07Dec2024 18:00:30.774] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[07Dec2024 18:00:35.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[07Dec2024 18:00:48.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[07Dec2024 18:00:56.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Monster Hunter]
