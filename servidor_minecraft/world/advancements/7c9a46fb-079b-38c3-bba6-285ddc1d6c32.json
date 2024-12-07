@@ -805,7 +805,9 @@
     "criteria": {
       "muskeg": "2024-12-06 21:33:11 +0000",
       "snowblossom_grove": "2024-12-06 21:30:56 +0000",
+      "marsh": "2024-12-07 17:25:58 +0000",
       "wetland": "2024-12-07 14:39:57 +0000",
+      "clover_patch": "2024-12-07 17:24:52 +0000",
       "cold_desert": "2024-12-07 14:26:02 +0000",
       "maple_woods": "2024-12-07 14:27:05 +0000",
       "field": "2024-12-07 14:26:59 +0000",
@@ -1988,10 +1990,12 @@
       "minecraft:snowy_plains": "2024-12-06 21:53:53 +0000",
       "minecraft:stony_shore": "2024-12-06 21:33:47 +0000",
       "minecraft:snowy_taiga": "2024-12-07 14:06:56 +0000",
+      "minecraft:swamp": "2024-12-07 17:32:07 +0000",
       "minecraft:cold_ocean": "2024-12-07 14:29:36 +0000",
       "minecraft:deep_cold_ocean": "2024-12-07 14:30:29 +0000",
       "minecraft:frozen_ocean": "2024-12-06 21:44:12 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-06 21:44:59 +0000",
+      "minecraft:ocean": "2024-12-07 17:23:37 +0000",
       "minecraft:snowy_beach": "2024-12-06 21:32:55 +0000",
       "minecraft:plains": "2024-12-07 17:21:51 +0000"
     },
@@ -6259,6 +6263,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_palisade": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
@@ -6283,6 +6299,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-07 17:11:16 +0000"
@@ -6292,6 +6326,12 @@
   "cfm:recipes/decorations/birch_crate": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
     },
     "done": true
   },
@@ -6307,9 +6347,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6319,9 +6383,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-07 17:24:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6337,9 +6425,39 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2024-12-07 17:24:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6355,9 +6473,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6373,6 +6503,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 17:11:16 +0000"
@@ -6382,6 +6518,18 @@
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6400,6 +6548,18 @@
   "new_slab_variants:recipes/building_blocks/birch_log_slab": {
     "criteria": {
       "has_birch_log": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6433,6 +6593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
@@ -6445,9 +6611,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6475,9 +6677,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 17:26:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
@@ -6499,6 +6725,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-07 17:11:16 +0000"
@@ -6508,6 +6752,12 @@
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-07 17:23:59 +0000"
     },
     "done": true
   },
