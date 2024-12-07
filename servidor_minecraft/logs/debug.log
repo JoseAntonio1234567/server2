@@ -15424,3 +15424,45 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [07Dec2024 17:11:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [07Dec2024 17:12:28.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 17:12:28.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:14:54.377] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[07Dec2024 17:17:28.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:17:28.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:18:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[07Dec2024 17:18:05.536] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/centers/watch_tower
+[07Dec2024 17:18:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[07Dec2024 17:18:16.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[07Dec2024 17:18:16.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[07Dec2024 17:18:20.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[07Dec2024 17:19:22.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[07Dec2024 17:19:44.660] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[07Dec2024 17:19:44.686] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[07Dec2024 17:19:50.566] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[07Dec2024 17:19:53.889] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[07Dec2024 17:20:06.358] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[07Dec2024 17:20:11.959] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[07Dec2024 17:20:11.981] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[07Dec2024 17:20:25.194] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes]] from pos BlockPos{x=-5051, y=73, z=-5051}
+[07Dec2024 17:20:27.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[07Dec2024 17:20:45.239] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[07Dec2024 17:20:45.650] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[07Dec2024 17:20:45.666] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[07Dec2024 17:21:38.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[07Dec2024 17:21:57.909] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:illager_house_1
+[07Dec2024 17:21:59.194] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:titan_spire/root
+[07Dec2024 17:22:04.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[07Dec2024 17:22:04.924] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[07Dec2024 17:22:04.934] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[07Dec2024 17:22:15.283] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_2
+[07Dec2024 17:22:15.292] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_1
+[07Dec2024 17:22:20.139] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[07Dec2024 17:22:33.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 17:22:33.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 17:22:40.540] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes]] from pos BlockPos{x=-4741, y=67, z=-5429}
+[07Dec2024 17:23:23.099] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[07Dec2024 17:23:23.272] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/root
+[07Dec2024 17:23:23.285] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/house_basic
+[07Dec2024 17:23:23.293] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:small_house/golem
+[07Dec2024 17:23:30.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[07Dec2024 17:23:56.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[07Dec2024 17:24:25.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[07Dec2024 17:24:34.758] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
