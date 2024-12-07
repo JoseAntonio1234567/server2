@@ -1973,9 +1973,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-07 14:09:09 +0000",
       "minecraft:frozen_river": "2024-12-06 21:32:58 +0000",
       "minecraft:snowy_plains": "2024-12-06 21:53:53 +0000",
       "minecraft:stony_shore": "2024-12-06 21:33:47 +0000",
+      "minecraft:snowy_taiga": "2024-12-07 14:06:56 +0000",
       "minecraft:frozen_ocean": "2024-12-06 21:44:12 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-06 21:44:59 +0000",
       "minecraft:snowy_beach": "2024-12-06 21:32:55 +0000"
@@ -5032,6 +5034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-07 13:56:06 +0000"
@@ -5050,9 +5058,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-07 14:06:41 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-07 14:09:55 +0000"
     },
     "done": true
   },
@@ -5068,9 +5088,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2024-12-07 13:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-07 14:06:41 +0000"
     },
     "done": true
   },
@@ -5125,6 +5157,18 @@
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2024-12-07 14:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-07 14:06:41 +0000"
     },
     "done": true
   },
@@ -5236,6 +5280,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
     "criteria": {
       "has_spruce_log": "2024-12-07 13:56:06 +0000"
@@ -5251,6 +5301,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-07 13:58:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
     },
     "done": true
   },
@@ -5278,15 +5334,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:56:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-07 14:09:55 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-07 14:09:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
     },
     "done": true
   },
@@ -5341,6 +5427,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-12-07 14:09:59 +0000"
     },
     "done": true
   },
