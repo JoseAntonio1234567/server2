@@ -3866,6 +3866,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-07 13:59:09 +0000"
@@ -3902,6 +3908,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 14:13:35 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
       "has_chest": "2024-12-07 14:10:05 +0000"
@@ -3926,9 +3938,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/cherry_drawers": {
     "criteria": {
       "has_chest": "2024-12-07 14:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
     },
     "done": true
   },
@@ -3983,6 +4007,18 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-07 14:02:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-07 14:18:25 +0000"
     },
     "done": true
   },
@@ -4124,6 +4160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-07 14:18:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 14:10:04 +0000"
@@ -4145,6 +4187,12 @@
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2024-12-07 14:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
     },
     "done": true
   },
@@ -4292,6 +4340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-07 14:17:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:59:09 +0000"
@@ -4427,6 +4481,12 @@
   "cfm:recipes/decorations/brown_cooler": {
     "criteria": {
       "has_chest": "2024-12-07 14:10:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-07 14:17:38 +0000"
     },
     "done": true
   },
@@ -4790,6 +4850,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 14:10:05 +0000"
@@ -4865,6 +4931,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2024-12-07 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
     },
     "done": true
   },
@@ -5030,9 +5102,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 13:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-07 14:18:25 +0000"
     },
     "done": true
   },
@@ -5057,6 +5141,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-07 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-07 14:17:41 +0000"
     },
     "done": true
   },

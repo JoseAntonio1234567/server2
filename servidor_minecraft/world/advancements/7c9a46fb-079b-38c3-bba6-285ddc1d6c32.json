@@ -5040,6 +5040,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-07 13:56:06 +0000"
@@ -5064,6 +5070,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 14:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2024-12-07 13:56:06 +0000"
@@ -5073,6 +5097,18 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2024-12-07 14:09:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-07 14:11:50 +0000"
     },
     "done": true
   },
@@ -5106,6 +5142,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2024-12-07 14:20:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:56:06 +0000"
@@ -5115,6 +5157,24 @@
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-07 14:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-07 14:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
     },
     "done": true
   },
@@ -5139,6 +5199,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-07 14:18:49 +0000"
     },
     "done": true
   },
@@ -5208,6 +5274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-07 14:11:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-07 13:57:55 +0000"
@@ -5217,6 +5289,12 @@
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 13:56:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-07 14:20:44 +0000"
     },
     "done": true
   },
@@ -5316,6 +5394,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 13:56:06 +0000"
@@ -5352,6 +5436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-07 14:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-07 14:09:55 +0000"
@@ -5367,6 +5457,12 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2024-12-07 14:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
     },
     "done": true
   },
@@ -5424,15 +5520,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 13:56:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-07 14:11:50 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-12-07 14:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-07 14:11:30 +0000"
     },
     "done": true
   },
