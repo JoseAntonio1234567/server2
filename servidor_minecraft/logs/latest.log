@@ -2202,3 +2202,8 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 20:38:29.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
 [08Dec2024 20:38:29.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
 [08Dec2024 20:38:29.524] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[08Dec2024 20:45:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [It Belongs in a Museum]
+[08Dec2024 20:45:48.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[08Dec2024 20:47:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Cave Centipede
+[08Dec2024 20:47:53.809] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 20:49:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Isn't It Iron Pick]

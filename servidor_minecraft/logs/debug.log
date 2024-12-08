@@ -16184,3 +16184,60 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 20:38:29.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
 [08Dec2024 20:38:29.524] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
 [08Dec2024 20:38:29.525] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/blay09/mods/craftingtweaks/InventoryCraftingCompress (target of net/minecraft/world/Container)
+[08Dec2024 20:41:49.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[08Dec2024 20:41:49.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[08Dec2024 20:41:49.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[08Dec2024 20:41:49.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[08Dec2024 20:42:54.776] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[08Dec2024 20:42:54.780] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[08Dec2024 20:42:54.783] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[08Dec2024 20:42:54.792] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[08Dec2024 20:42:54.805] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[08Dec2024 20:42:54.812] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[08Dec2024 20:42:54.819] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[08Dec2024 20:42:54.824] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[08Dec2024 20:42:54.827] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[08Dec2024 20:42:54.831] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[08Dec2024 20:42:54.841] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[08Dec2024 20:42:54.846] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[08Dec2024 20:42:54.846] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[08Dec2024 20:42:54.847] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[08Dec2024 20:42:54.851] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[08Dec2024 20:42:54.852] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[08Dec2024 20:42:54.885] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[08Dec2024 20:42:54.890] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[08Dec2024 20:42:54.896] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[08Dec2024 20:42:54.902] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[08Dec2024 20:42:54.909] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[08Dec2024 20:42:54.915] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[08Dec2024 20:42:54.922] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[08Dec2024 20:42:54.932] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[08Dec2024 20:42:54.936] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[08Dec2024 20:42:54.940] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[08Dec2024 20:42:54.944] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[08Dec2024 20:43:03.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 20:43:03.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 20:45:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [It Belongs in a Museum]
+[08Dec2024 20:45:48.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[08Dec2024 20:45:51.172] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexmodguy/alexscaves/server/inventory/SpelunkeryTableMenu$1 (target of net/minecraft/world/Container)
+[08Dec2024 20:47:26.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[08Dec2024 20:47:33.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[08Dec2024 20:47:33.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[08Dec2024 20:47:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Cave Centipede
+[08Dec2024 20:47:53.794] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:6566, y:-16, z:-681, dim:minecraft:overworld]
+[08Dec2024 20:47:53.809] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 20:47:56.282] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[08Dec2024 20:47:56.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[08Dec2024 20:47:56.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[08Dec2024 20:47:56.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[08Dec2024 20:47:57.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[08Dec2024 20:47:57.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[08Dec2024 20:47:57.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[08Dec2024 20:48:03.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 20:48:03.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 20:48:37.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[08Dec2024 20:48:48.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[08Dec2024 20:48:48.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[08Dec2024 20:48:48.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[08Dec2024 20:49:04.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[08Dec2024 20:49:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Isn't It Iron Pick]
