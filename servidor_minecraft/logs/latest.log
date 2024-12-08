@@ -2794,3 +2794,19 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 15:00:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
 [08Dec2024 15:00:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Christmas]
 [08Dec2024 15:00:42.872] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[08Dec2024 15:05:15.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[08Dec2024 15:06:09.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gave 64 [Bread] to joselete123]
+[08Dec2024 15:06:22.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gave 64 [Bread] to carloselpillo]
+[08Dec2024 15:07:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ambush]
+[08Dec2024 15:08:05.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Dec2024 15:08:05.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> el seluliti manda y no tu banda
+[08Dec2024 15:08:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> :peped:
+[08Dec2024 15:08:27.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Stone Age]
+[08Dec2024 15:08:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Getting an Upgrade]
+[08Dec2024 15:10:09.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[08Dec2024 15:13:10.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Dec2024 15:13:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Monster Hunter]
+[08Dec2024 15:13:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[08Dec2024 15:14:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[08Dec2024 15:14:29.329] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 15:14:39.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
