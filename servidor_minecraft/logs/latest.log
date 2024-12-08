@@ -2180,3 +2180,19 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 20:16:11.326] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [08Dec2024 20:17:40.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [08Dec2024 20:18:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Acquire Hardware]
+[08Dec2024 20:19:20.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[08Dec2024 20:22:47.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[08Dec2024 20:23:08.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[08Dec2024 20:23:08.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[08Dec2024 20:23:08.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[08Dec2024 20:23:08.203] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 20:23:09.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[08Dec2024 20:23:14.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Dec2024 20:23:59.722] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[08Dec2024 20:25:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[08Dec2024 20:25:37.934] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 20:25:43.572] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 172.998ms!
+[08Dec2024 20:26:17.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 20:27:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Diamonds!]
+[08Dec2024 20:28:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Sneak 100]
+[08Dec2024 20:28:31.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
