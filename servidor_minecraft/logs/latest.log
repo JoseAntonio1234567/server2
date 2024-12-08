@@ -2768,3 +2768,29 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 14:53:55.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Stone Age]
 [08Dec2024 14:54:25.531] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [08Dec2024 14:54:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Getting an Upgrade]
+[08Dec2024 14:56:30.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[08Dec2024 14:59:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[08Dec2024 14:59:53.766] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[08Dec2024 14:59:53.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[08Dec2024 14:59:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Your First Grave]
+[08Dec2024 14:59:53.826] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 14:59:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Most Useful Key]
+[08Dec2024 14:59:55.566] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[08Dec2024 14:59:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Knowledge of Death]
+[08Dec2024 14:59:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [A Fast Comeback]
+[08Dec2024 15:00:00.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Dec2024 15:00:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Here They Come]
+[08Dec2024 15:00:14.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[08Dec2024 15:00:24.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[08Dec2024 15:00:27.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[08Dec2024 15:00:41.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:50149] logged in with entity id 5452 at (-8.5, 82.0, -7.5)
+[08Dec2024 15:00:41.611] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to carloselpillo
+[08Dec2024 15:00:41.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to carloselpillo
+[08Dec2024 15:00:41.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to carloselpillo
+[08Dec2024 15:00:41.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to carloselpillo
+[08Dec2024 15:00:41.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to carloselpillo
+[08Dec2024 15:00:41.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to carloselpillo
+[08Dec2024 15:00:41.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to carloselpillo
+[08Dec2024 15:00:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[08Dec2024 15:00:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Christmas]
+[08Dec2024 15:00:42.872] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
