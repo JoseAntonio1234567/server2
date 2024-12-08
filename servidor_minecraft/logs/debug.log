@@ -17227,3 +17227,41 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 15:38:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement ['X' Marks the Spot]
 [08Dec2024 15:38:38.961] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
 [08Dec2024 15:38:45.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ice Bucket Challenge]
+[08Dec2024 15:39:43.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[08Dec2024 15:41:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Strange Grave Dust]
+[08Dec2024 15:41:58.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 15:42:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [A Strange Grave Dust]
+[08Dec2024 15:42:09.846] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[08Dec2024 15:42:36.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by carloselpillo
+[08Dec2024 15:42:36.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:6599, y:-12, z:-693, dim:minecraft:overworld]
+[08Dec2024 15:42:36.890] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[08Dec2024 15:42:38.204] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[08Dec2024 15:42:59.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 15:43:00.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 15:43:09.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Dec2024 15:43:28.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was blown up by Creeper
+[08Dec2024 15:43:28.625] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6573, y:-8, z:-721, dim:minecraft:overworld]
+[08Dec2024 15:43:28.651] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[08Dec2024 15:43:30.195] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[08Dec2024 15:46:04.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Alex's Caves]
+[08Dec2024 15:46:10.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Barrel Booty]
+[08Dec2024 15:46:13.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Once Upon a Cave]
+[08Dec2024 15:46:24.404] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexmodguy/alexscaves/server/inventory/SpelunkeryTableMenu$1 (target of net/minecraft/world/Container)
+[08Dec2024 15:46:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ashes 'n Bones]
+[08Dec2024 15:47:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement ['X' Marks the Spot]
+[08Dec2024 15:47:03.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[08Dec2024 15:47:03.451] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6603, y:-48, z:-657, dim:minecraft:overworld]
+[08Dec2024 15:47:03.466] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[08Dec2024 15:47:04.873] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[08Dec2024 15:47:06.634] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[08Dec2024 15:47:15.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Diamonds!]
+[08Dec2024 15:47:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Suit Up]
+[08Dec2024 15:47:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[08Dec2024 15:47:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ashes 'n Bones]
+[08Dec2024 15:48:00.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 15:48:00.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 15:48:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[08Dec2024 15:48:46.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[08Dec2024 15:48:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[08Dec2024 15:48:46.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 15:49:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
