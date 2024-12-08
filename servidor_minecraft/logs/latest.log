@@ -2196,3 +2196,9 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 20:27:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Diamonds!]
 [08Dec2024 20:28:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Sneak 100]
 [08Dec2024 20:28:31.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[08Dec2024 20:30:29.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[08Dec2024 20:37:25.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Dec2024 20:38:29.517] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[08Dec2024 20:38:29.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[08Dec2024 20:38:29.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[08Dec2024 20:38:29.524] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
