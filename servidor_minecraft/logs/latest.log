@@ -2915,3 +2915,4 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [08Dec2024 15:48:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
 [08Dec2024 15:48:46.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Dec2024 15:49:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[08Dec2024 15:54:21.662] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType

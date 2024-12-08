@@ -5260,6 +5260,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-08 15:50:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-08 15:41:21 +0000"
@@ -5317,6 +5323,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 15:43:27 +0000",
+      "minecraft:spider": "2024-12-08 15:48:08 +0000",
       "minecraft:creeper": "2024-12-08 15:43:54 +0000",
       "minecraft:cave_spider": "2024-12-08 15:43:15 +0000",
       "minecraft:zombie": "2024-12-08 15:35:48 +0000",
@@ -5369,6 +5376,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-08 15:41:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-08 15:50:40 +0000"
     },
     "done": true
   },
