@@ -2184,3 +2184,6 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [09Dec2024 14:22:16.484] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
 [09Dec2024 14:22:52.815] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [09Dec2024 14:24:59.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[09Dec2024 14:29:09.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[09Dec2024 14:29:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[09Dec2024 14:34:26.335] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
