@@ -2167,3 +2167,20 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [09Dec2024 14:14:18.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
 [09Dec2024 14:14:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [09Dec2024 14:15:28.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[09Dec2024 14:17:09.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[09Dec2024 14:20:07.154] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elevatorid:main_channel] rejected their client side version number
+[09Dec2024 14:20:07.157] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 14:20:07.183] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43077abf[id=<null>,name=carloselpillo,properties={},legacy=false] (/127.181.160.16:48099) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 14:21:32.348] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Dec2024 14:22:15.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:36409] logged in with entity id 2614 at (6639.613329020572, 106.0, -637.5993376473423)
+[09Dec2024 14:22:16.018] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to carloselpillo
+[09Dec2024 14:22:16.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to carloselpillo
+[09Dec2024 14:22:16.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to carloselpillo
+[09Dec2024 14:22:16.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to carloselpillo
+[09Dec2024 14:22:16.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to carloselpillo
+[09Dec2024 14:22:16.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to carloselpillo
+[09Dec2024 14:22:16.047] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to carloselpillo
+[09Dec2024 14:22:16.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[09Dec2024 14:22:16.484] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[09Dec2024 14:22:52.815] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[09Dec2024 14:24:59.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
