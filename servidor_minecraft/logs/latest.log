@@ -2193,3 +2193,22 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 23:24:39.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
 [21Dec2024 23:33:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Acquire Hardware]
 [21Dec2024 23:35:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Not Today, Thank You]
+[21Dec2024 23:36:17.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Surge Protector]
+[21Dec2024 23:36:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Surge Protector]
+[21Dec2024 23:37:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[21Dec2024 23:38:39.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[21Dec2024 23:38:49.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Chest Slayer]
+[21Dec2024 23:38:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Amateur Archaeologist]
+[21Dec2024 23:39:04.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[21Dec2024 23:39:14.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Barrel Booty]
+[21Dec2024 23:39:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
+[21Dec2024 23:39:40.537] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[21Dec2024 23:39:57.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Knowledge of Death]
+[21Dec2024 23:39:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [A Fast Comeback]
+[21Dec2024 23:41:38.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Isn't It Iron Pick]
+[21Dec2024 23:41:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [A Strange Grave Dust]
+[21Dec2024 23:42:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Diamonds!]
+[21Dec2024 23:43:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[21Dec2024 23:44:15.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[21Dec2024 23:45:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 tried to swim in lava
+[21Dec2024 23:45:15.372] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved

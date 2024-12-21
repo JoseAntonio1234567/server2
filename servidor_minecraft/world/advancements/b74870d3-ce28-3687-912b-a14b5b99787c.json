@@ -3427,6 +3427,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 15:13:17 +0000",
+      "minecraft:spider": "2024-12-21 23:40:22 +0000",
       "minecraft:cave_spider": "2024-12-08 15:42:04 +0000",
       "minecraft:zombie": "2024-12-08 15:41:11 +0000"
     },
@@ -6633,6 +6634,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-21 23:36:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-21 22:46:46 +0000"
@@ -6798,6 +6805,12 @@
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-21 23:16:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-21 23:36:52 +0000"
     },
     "done": true
   },

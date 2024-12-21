@@ -824,6 +824,7 @@
       "lavender_forest": "2024-12-08 15:36:43 +0000",
       "mediterranean_forest": "2024-12-08 14:50:44 +0000",
       "spider_nest": "2024-12-08 15:14:27 +0000",
+      "redwood_forest": "2024-12-21 23:42:45 +0000",
       "lavender_field": "2024-12-08 15:37:39 +0000",
       "tundra": "2024-12-08 14:44:31 +0000"
     },
@@ -8888,6 +8889,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-21 22:42:45 +0000"
@@ -8915,6 +8940,12 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2024-12-21 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
     },
     "done": true
   },
@@ -8966,6 +8997,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-21 22:42:45 +0000"
@@ -9002,15 +9039,51 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 23:17:42 +0000"
     },
     "done": true
   },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2024-12-21 23:37:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-21 22:51:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-21 23:37:40 +0000"
     },
     "done": true
   },
@@ -9023,6 +9096,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-21 23:38:49 +0000"
     },
     "done": true
   },
@@ -9050,9 +9129,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-21 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-21 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-21 23:40:01 +0000"
     },
     "done": true
   },
@@ -9110,9 +9213,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-21 23:36:17 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-21 23:38:50 +0000"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-21 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
     },
     "done": true
   },
@@ -9122,9 +9255,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-21 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
     },
     "done": true
   },
@@ -9173,6 +9324,12 @@
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2024-12-21 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
     },
     "done": true
   },
@@ -9260,6 +9417,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-21 22:42:45 +0000"
@@ -9302,6 +9465,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-12-21 23:35:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 23:17:42 +0000"
@@ -9341,6 +9510,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:35:46 +0000"
     },
     "done": true
   },
