@@ -2101,3 +2101,18 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 22:33:27.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [21Dec2024 22:33:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Barrel Booty]
 [21Dec2024 22:33:28.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[21Dec2024 22:34:41.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[21Dec2024 22:34:41.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[21Dec2024 22:35:28.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.145.58.227:41987] logged in with entity id 1813 at (6463.830402464926, -42.0, -690.4156214449109)
+[21Dec2024 22:35:28.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to joselete123
+[21Dec2024 22:35:28.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to joselete123
+[21Dec2024 22:35:28.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to joselete123
+[21Dec2024 22:35:28.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to joselete123
+[21Dec2024 22:35:28.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to joselete123
+[21Dec2024 22:35:28.632] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to joselete123
+[21Dec2024 22:35:28.632] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to joselete123
+[21Dec2024 22:35:28.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[21Dec2024 22:35:28.934] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[21Dec2024 22:36:51.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[21Dec2024 22:38:49.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[21Dec2024 22:39:43.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
