@@ -8911,6 +8911,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 22:51:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-21 22:42:45 +0000"
@@ -8952,6 +8958,12 @@
       "has_stone_types_scoria": "2024-12-21 22:42:45 +0000"
     },
     "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_creeper": "2024-12-21 22:49:44 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {

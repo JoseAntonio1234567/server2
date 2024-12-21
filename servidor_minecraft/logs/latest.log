@@ -2116,3 +2116,27 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 22:36:51.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [21Dec2024 22:38:49.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
 [21Dec2024 22:39:43.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21Dec2024 22:44:39.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[21Dec2024 22:50:41.207] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[21Dec2024 22:51:19.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[21Dec2024 22:51:19.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Strong or Careful]
+[21Dec2024 22:51:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Rebel Farlander
+[21Dec2024 22:51:19.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[21Dec2024 22:51:19.808] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[21Dec2024 22:51:36.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[21Dec2024 22:52:29.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:50447] logged in with entity id 7402 at (5.5, 72.0, 0.5)
+[21Dec2024 22:52:29.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[21Dec2024 22:52:29.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[21Dec2024 22:52:29.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[21Dec2024 22:52:29.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[21Dec2024 22:52:30.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[21Dec2024 22:52:30.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[21Dec2024 22:52:30.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[21Dec2024 22:52:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[21Dec2024 22:52:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Christmas]
+[21Dec2024 22:52:31.160] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[21Dec2024 22:52:32.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[21Dec2024 22:52:50.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[21Dec2024 22:53:41.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 22:54:22.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made myser444 a server operator
+[21Dec2024 22:54:37.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
