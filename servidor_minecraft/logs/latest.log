@@ -2033,3 +2033,71 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 22:18:08.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [21Dec2024 22:18:08.852] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [21Dec2024 22:18:09.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting sereneseasons/api/season/Season$TropicalSeason
+[21Dec2024 22:30:33.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 22:30:33.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gvdgd<--[HERE]
+[21Dec2024 22:30:46.461] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/VarintByteDecoder$DecodeResult
+[21Dec2024 22:30:46.472] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[21Dec2024 22:30:46.493] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[21Dec2024 22:30:46.527] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[21Dec2024 22:30:46.540] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[21Dec2024 22:30:46.550] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[21Dec2024 22:30:46.552] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[21Dec2024 22:30:46.554] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[21Dec2024 22:30:46.556] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[21Dec2024 22:30:46.560] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[21Dec2024 22:30:46.566] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[21Dec2024 22:30:46.574] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[21Dec2024 22:30:46.575] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[21Dec2024 22:30:46.578] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[21Dec2024 22:30:46.579] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[21Dec2024 22:30:46.582] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[21Dec2024 22:30:46.585] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[21Dec2024 22:31:13.169] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[21Dec2024 22:31:13.469] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[21Dec2024 22:31:17.102] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/misc/KryptonPipelineEvent
+[21Dec2024 22:31:17.104] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[21Dec2024 22:31:17.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tschipp/carryon/common/carry/CarryOnData$CarryType
+[21Dec2024 22:31:17.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:49127] logged in with entity id 1056 at (6601.300000011921, -34.0, -683.3702174435764)
+[21Dec2024 22:31:17.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[21Dec2024 22:31:17.314] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[21Dec2024 22:31:17.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[21Dec2024 22:31:17.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[21Dec2024 22:31:17.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[21Dec2024 22:31:17.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[21Dec2024 22:31:17.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[21Dec2024 22:31:17.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/yabn/elements/YabnType
+[21Dec2024 22:31:17.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to carloselpillo
+[21Dec2024 22:31:17.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to carloselpillo
+[21Dec2024 22:31:17.500] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to carloselpillo
+[21Dec2024 22:31:17.502] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to carloselpillo
+[21Dec2024 22:31:17.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to carloselpillo
+[21Dec2024 22:31:17.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to carloselpillo
+[21Dec2024 22:31:17.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to carloselpillo
+[21Dec2024 22:31:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[21Dec2024 22:31:18.085] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[21Dec2024 22:31:20.120] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[21Dec2024 22:31:45.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[21Dec2024 22:31:45.493] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[21Dec2024 22:31:45.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[21Dec2024 22:31:45.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[21Dec2024 22:31:46.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29130ms or 582 ticks behind
+[21Dec2024 22:31:46.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[21Dec2024 22:31:46.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[21Dec2024 22:31:46.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[21Dec2024 22:31:46.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[21Dec2024 22:31:48.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[21Dec2024 22:31:53.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[21Dec2024 22:31:53.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Dec2024 22:31:53.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[21Dec2024 22:32:38.020] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [create:main] rejected their client side version number
+[21Dec2024 22:32:38.025] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[21Dec2024 22:32:38.082] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46453ffd[id=<null>,name=joselete123,properties={},legacy=false] (/127.145.58.227:60839) lost connection: Connection closed - mismatched mod channel list
+[21Dec2024 22:32:51.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/communi/suggestu/scena/core/event/ProcessingResult
+[21Dec2024 22:32:51.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/api/item/click/ClickProcessingState$ProcessingResult
+[21Dec2024 22:32:52.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[21Dec2024 22:33:19.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[21Dec2024 22:33:26.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[21Dec2024 22:33:26.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[21Dec2024 22:33:27.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[21Dec2024 22:33:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Barrel Booty]
+[21Dec2024 22:33:28.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType

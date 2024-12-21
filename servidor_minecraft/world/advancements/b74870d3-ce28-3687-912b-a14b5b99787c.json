@@ -4296,6 +4296,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-21 22:33:27 +0000",
       "opened_chest": "2024-12-08 15:47:00 +0000"
     },
     "done": false
@@ -4487,12 +4488,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/orange_cooler": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_acacia": {
     "criteria": {
       "has_planks": "2024-12-09 14:23:29 +0000"
@@ -4517,27 +4512,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/dark_oak_mail_box": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/fridge_dark": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
     },
     "done": true
   },
@@ -4553,33 +4530,9 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_mail_box": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_desk": {
     "criteria": {
       "has_acacia_desk": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
     },
     "done": true
   },
@@ -4598,24 +4551,6 @@
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_mail_box": {
-    "criteria": {
-      "has_chest": "2024-12-09 14:23:43 +0000"
     },
     "done": true
   },
@@ -4649,6 +4584,258 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_seat": {
+    "criteria": {
+      "has_plank": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_support": {
+    "criteria": {
+      "has_plank": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-09 14:23:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_dark": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -4670,12 +4857,6 @@
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -4709,12 +4890,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/acacia_pillar_trim": {
-    "criteria": {
-      "has_acacia_pillar_trim": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -4727,12 +4902,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -4742,12 +4911,6 @@
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -4787,21 +4950,9 @@
     },
     "done": true
   },
-  "mcwpaths:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_mail_box": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_acacia": {
-    "criteria": {
-      "has_the_recipe": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -4841,12 +4992,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -4862,18 +5007,6 @@
   "cfm:recipes/decorations/white_cooler": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_crate": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -4907,18 +5040,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_chair": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -4928,12 +5049,6 @@
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_shelf": {
-    "criteria": {
-      "has_acacia_shelf": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -4955,12 +5070,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/acacia_chair": {
-    "criteria": {
-      "has_acacia_chair": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -4973,45 +5082,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
-    "criteria": {
-      "has_bottom": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/acacia_park_bench": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_corner_trim": {
-    "criteria": {
-      "has_acacia_corner_trim": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -5051,12 +5130,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/acacia_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -5072,12 +5145,6 @@
   "cfm:recipes/decorations/green_cooler": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_couch": {
-    "criteria": {
-      "has_acacia_couch": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -5099,18 +5166,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/acacia_seat": {
-    "criteria": {
-      "has_plank": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_bench": {
-    "criteria": {
-      "has_acacia_bench": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -5123,33 +5178,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/acacia_drawer": {
-    "criteria": {
-      "has_acacia_drawer": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_side_table": {
-    "criteria": {
-      "has_acacia_side_table": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/acacia_support": {
-    "criteria": {
-      "has_plank": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -5171,18 +5202,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/acacia_nightstand": {
-    "criteria": {
-      "has_acacia_nightstand": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
@@ -5195,27 +5214,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/acacia_counter": {
-    "criteria": {
-      "has_acacia_counter": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_coffee_table": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_acacia_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-09 14:23:29 +0000"
     },
     "done": true
   },
@@ -5234,6 +5235,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-09 14:23:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-21 22:33:27 +0000"
     },
     "done": true
   },
