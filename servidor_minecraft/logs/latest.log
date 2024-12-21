@@ -2175,3 +2175,19 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 23:12:28.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
 [21Dec2024 23:14:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to joselete123]
 [21Dec2024 23:15:01.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:16:29.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Disme A Dozen]
+[21Dec2024 23:16:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:17:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
+[21Dec2024 23:17:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Your First Grave]
+[21Dec2024 23:17:04.717] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[21Dec2024 23:17:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [The Most Useful Key]
+[21Dec2024 23:17:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[21Dec2024 23:18:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Hot Stuff]
+[21Dec2024 23:18:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:18:35.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Hot Stuff]
+[21Dec2024 23:18:39.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[21Dec2024 23:18:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[21Dec2024 23:19:29.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:22:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[21Dec2024 23:22:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[21Dec2024 23:24:39.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback

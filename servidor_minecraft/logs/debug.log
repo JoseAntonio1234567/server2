@@ -17242,3 +17242,27 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 23:13:48.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 23:14:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to joselete123]
 [21Dec2024 23:15:01.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:16:29.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Disme A Dozen]
+[21Dec2024 23:16:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:17:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
+[21Dec2024 23:17:04.714] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:6599, y:67, z:-652, dim:minecraft:overworld]
+[21Dec2024 23:17:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Your First Grave]
+[21Dec2024 23:17:04.717] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[21Dec2024 23:17:14.680] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[21Dec2024 23:17:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [The Most Useful Key]
+[21Dec2024 23:17:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[21Dec2024 23:18:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Hot Stuff]
+[21Dec2024 23:18:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:18:35.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Hot Stuff]
+[21Dec2024 23:18:39.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[21Dec2024 23:18:48.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:18:48.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 23:18:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[21Dec2024 23:19:29.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[21Dec2024 23:22:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[21Dec2024 23:22:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[21Dec2024 23:23:48.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:23:48.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 23:24:12.693] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=6644, y=110, z=-631}) doesn't have enough leaves around top most log
+[21Dec2024 23:24:32.965] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=6463, y=72, z=-627}) doesn't have enough leaves around top most log
+[21Dec2024 23:24:39.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
