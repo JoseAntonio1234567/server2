@@ -2191,3 +2191,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [21Dec2024 23:22:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [21Dec2024 23:22:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [21Dec2024 23:24:39.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[21Dec2024 23:33:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Acquire Hardware]
+[21Dec2024 23:35:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Not Today, Thank You]
