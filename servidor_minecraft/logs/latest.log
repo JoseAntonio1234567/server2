@@ -2256,3 +2256,25 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 23:40:02.836] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
 [22Dec2024 23:40:27.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [22Dec2024 23:41:02.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Isn't It Iron Pick]
+[22Dec2024 23:44:27.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[22Dec2024 23:46:58.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set own game mode to Creative Mode]
+[22Dec2024 23:47:05.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[22Dec2024 23:47:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[22Dec2024 23:48:11.037] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[22Dec2024 23:48:11.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[22Dec2024 23:48:11.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[22Dec2024 23:49:03.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:38751] logged in with entity id 32429 at (6639.824547692417, 104.0, -630.528418673294)
+[22Dec2024 23:49:03.989] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to carloselpillo
+[22Dec2024 23:49:03.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to carloselpillo
+[22Dec2024 23:49:03.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to carloselpillo
+[22Dec2024 23:49:03.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to carloselpillo
+[22Dec2024 23:49:04.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to carloselpillo
+[22Dec2024 23:49:04.008] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to carloselpillo
+[22Dec2024 23:49:04.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to carloselpillo
+[22Dec2024 23:49:04.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[22Dec2024 23:49:04.243] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[22Dec2024 23:49:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set own game mode to Survival Mode]
+[22Dec2024 23:50:09.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Iron Golem
+[22Dec2024 23:50:09.721] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[22Dec2024 23:51:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[22Dec2024 23:51:46.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
