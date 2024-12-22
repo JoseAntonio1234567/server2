@@ -8995,6 +8995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-22 22:24:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2024-12-22 22:09:12 +0000"
@@ -9452,6 +9458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-22 22:24:05 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2024-12-22 22:09:12 +0000"
@@ -9581,6 +9593,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-22 22:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-22 22:26:09 +0000"
     },
     "done": true
   },

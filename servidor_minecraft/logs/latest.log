@@ -2212,3 +2212,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 22:15:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [22Dec2024 22:17:55.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Your First Generator]
 [22Dec2024 22:19:50.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[22Dec2024 22:26:09.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Seedy Place]
+[22Dec2024 22:27:19.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
