@@ -16456,3 +16456,32 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 15:38:36.250] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
 [22Dec2024 15:39:10.549] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ForwardingCraftingContainer (target of net/minecraft/world/Container)
 [22Dec2024 15:39:10.550] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/visualworkbench/world/inventory/ModCraftingMenu$1 (target of net/minecraft/world/inventory/Slot)
+[22Dec2024 15:41:15.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 15:41:16.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:42:52.159] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[22Dec2024 15:42:52.165] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[22Dec2024 15:42:52.169] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[22Dec2024 15:42:52.176] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[22Dec2024 15:42:52.181] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[22Dec2024 15:42:52.186] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[22Dec2024 15:42:52.192] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[22Dec2024 15:42:52.197] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[22Dec2024 15:42:52.203] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[22Dec2024 15:42:52.209] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[22Dec2024 15:42:52.215] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[22Dec2024 15:42:53.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[22Dec2024 15:42:54.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22Dec2024 15:43:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 15:43:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSFS<--[HERE]
+[22Dec2024 15:46:15.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 15:46:15.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:46:36.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[22Dec2024 15:46:38.246] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[22Dec2024 15:46:38.251] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md8cd7cd$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[22Dec2024 15:46:39.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[22Dec2024 15:46:39.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[22Dec2024 15:46:48.443] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/VanillaHopperItemHandler (target of net/minecraftforge/items/IItemHandler)
+[22Dec2024 15:47:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[22Dec2024 15:47:53.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[22Dec2024 15:47:57.948] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[22Dec2024 15:49:58.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ice Bucket Challenge]
