@@ -2218,3 +2218,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 22:34:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Tricking a Rock Into Thinking]
 [22Dec2024 22:34:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Alloy That Started it All]
 [22Dec2024 22:39:29.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[22Dec2024 22:43:26.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[22Dec2024 22:47:15.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
