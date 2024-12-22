@@ -8463,6 +8463,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 15:49:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2024-12-22 15:36:52 +0000"
@@ -8475,9 +8481,27 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-22 15:47:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-22 15:36:52 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 15:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 15:49:58 +0000"
     },
     "done": true
   },
@@ -8493,6 +8517,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2024-12-22 15:54:09 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2024-12-22 15:36:52 +0000"
@@ -8502,6 +8532,12 @@
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-12-22 15:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-22 15:49:58 +0000"
     },
     "done": true
   },
@@ -8526,6 +8562,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-12-22 15:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 15:49:58 +0000"
     },
     "done": true
   },

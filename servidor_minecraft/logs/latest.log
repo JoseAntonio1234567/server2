@@ -2129,3 +2129,11 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 15:47:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [22Dec2024 15:47:53.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [22Dec2024 15:49:58.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ice Bucket Challenge]
+[22Dec2024 15:51:39.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[22Dec2024 15:51:39.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[22Dec2024 15:57:53.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[22Dec2024 15:58:50.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[22Dec2024 15:59:59.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Strong or Careful]
+[22Dec2024 15:59:59.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[22Dec2024 15:59:59.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[22Dec2024 15:59:59.839] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
