@@ -16374,3 +16374,247 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 21:16:50.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 21:17:25.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [22Dec2024 21:17:25.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[22Dec2024 21:17:54.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[22Dec2024 21:17:54.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[22Dec2024 21:19:25.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[22Dec2024 21:20:21.606] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[22Dec2024 21:21:10.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[22Dec2024 21:21:18.195] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/VanillaHopperItemHandler (target of net/minecraftforge/items/IItemHandler)
+[22Dec2024 21:21:50.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:21:50.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:22:52.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[22Dec2024 21:23:19.557] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[22Dec2024 21:23:19.564] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[22Dec2024 21:23:53.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22Dec2024 21:23:56.580] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$954707bf9cf4437e97814c48e1fd4872 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[22Dec2024 21:24:23.962] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[22Dec2024 21:24:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[22Dec2024 21:25:22.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[22Dec2024 21:25:22.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[22Dec2024 21:25:22.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[22Dec2024 21:25:22.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[22Dec2024 21:25:22.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[22Dec2024 21:25:22.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[22Dec2024 21:25:22.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[22Dec2024 21:25:22.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[22Dec2024 21:25:22.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[22Dec2024 21:25:22.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[22Dec2024 21:25:22.839] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[22Dec2024 21:25:43.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[22Dec2024 21:25:44.128] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[22Dec2024 21:25:44.129] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[22Dec2024 21:26:11.699] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/CartographyTableMenu$1 (target of net/minecraft/world/Container)
+[22Dec2024 21:26:43.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[22Dec2024 21:26:50.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:26:50.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:26:56.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[22Dec2024 21:26:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[22Dec2024 21:27:39.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/3733, l='ServerLevel[world]', x=6957.58, y=120.04, z=-992.14]
+[22Dec2024 21:27:45.366] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[22Dec2024 21:27:49.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[22Dec2024 21:28:00.027] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
+[22Dec2024 21:28:19.474] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 3b8a59ba-be35-495e-859f-7fa4fb4a5bd6 to bff9e56f-293d-44d6-aff3-eb11491a4a7e
+[22Dec2024 21:28:19.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[22Dec2024 21:28:19.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[22Dec2024 21:28:19.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[22Dec2024 21:28:23.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[22Dec2024 21:28:59.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[22Dec2024 21:29:06.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[22Dec2024 21:29:08.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[22Dec2024 21:29:14.401] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[22Dec2024 21:29:19.746] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[22Dec2024 21:29:19.762] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[22Dec2024 21:29:24.975] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[22Dec2024 21:29:24.981] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[22Dec2024 21:29:24.992] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[22Dec2024 21:29:25.010] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[22Dec2024 21:29:25.037] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[22Dec2024 21:29:25.063] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[22Dec2024 21:29:25.086] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[22Dec2024 21:29:25.118] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[22Dec2024 21:29:33.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_2
+[22Dec2024 21:30:23.986] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[22Dec2024 21:30:24.009] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[22Dec2024 21:30:24.020] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[22Dec2024 21:30:24.065] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[22Dec2024 21:30:24.068] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[22Dec2024 21:30:24.069] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[22Dec2024 21:30:31.210] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[22Dec2024 21:30:31.238] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[22Dec2024 21:30:36.710] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[22Dec2024 21:30:36.726] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[22Dec2024 21:30:36.748] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[22Dec2024 21:30:36.767] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[22Dec2024 21:30:36.779] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[22Dec2024 21:30:36.791] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[22Dec2024 21:30:36.810] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[22Dec2024 21:30:36.817] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[22Dec2024 21:30:36.843] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[22Dec2024 21:30:37.167] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[22Dec2024 21:30:37.217] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[22Dec2024 21:30:37.230] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[22Dec2024 21:30:37.254] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[22Dec2024 21:30:38.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [It's an Emu!!!]
+[22Dec2024 21:30:44.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[22Dec2024 21:30:45.263] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[22Dec2024 21:30:45.269] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
+[22Dec2024 21:30:45.277] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[22Dec2024 21:30:55.644] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[22Dec2024 21:30:55.652] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[22Dec2024 21:30:55.662] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[22Dec2024 21:30:55.675] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[22Dec2024 21:30:55.680] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[22Dec2024 21:30:55.687] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[22Dec2024 21:30:55.695] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[22Dec2024 21:30:55.700] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[22Dec2024 21:30:55.705] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[22Dec2024 21:30:55.712] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[22Dec2024 21:30:55.721] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[22Dec2024 21:30:55.728] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[22Dec2024 21:30:55.732] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[22Dec2024 21:30:55.736] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[22Dec2024 21:30:55.741] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[22Dec2024 21:30:55.745] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[22Dec2024 21:30:55.754] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[22Dec2024 21:30:59.488] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[22Dec2024 21:30:59.517] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[22Dec2024 21:31:04.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! -10.094115461538422,0.0,-0.28612925644313236
+[22Dec2024 21:31:04.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 9.382845456694668,3.0,-2.2545454137892307
+[22Dec2024 21:31:04.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[22Dec2024 21:31:04.458] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[22Dec2024 21:31:04.465] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[22Dec2024 21:31:04.470] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[22Dec2024 21:31:04.476] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[22Dec2024 21:31:13.013] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[22Dec2024 21:31:13.021] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[22Dec2024 21:31:20.826] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[22Dec2024 21:31:23.454] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies]] from pos BlockPos{x=6997, y=69, z=-251}
+[22Dec2024 21:31:23.469] [pool-8-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[22Dec2024 21:31:25.520] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[22Dec2024 21:31:26.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[22Dec2024 21:31:27.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6996, y=66, z=-251} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[22Dec2024 21:31:27.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=6996, y=66, z=-251}
+[22Dec2024 21:31:27.019] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6996, y=66, z=-250} but found not block entity block Block{minecraft:stone} at location
+[22Dec2024 21:31:27.019] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=6996, y=66, z=-250}
+[22Dec2024 21:31:27.020] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6996, y=67, z=-250} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[22Dec2024 21:31:27.020] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=6996, y=67, z=-250}
+[22Dec2024 21:31:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! -2.3698639219264805,-5.854893299348362,-7.799663606914692
+[22Dec2024 21:31:27.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 2.231220475646296,1.0,-9.779403702085744
+[22Dec2024 21:31:27.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6997, y=69, z=-251} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[22Dec2024 21:31:27.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=6997, y=69, z=-251}
+[22Dec2024 21:31:36.293] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[22Dec2024 21:31:36.297] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[22Dec2024 21:31:36.298] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[22Dec2024 21:31:36.298] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_3
+[22Dec2024 21:31:36.311] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[22Dec2024 21:31:36.324] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[22Dec2024 21:31:36.330] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[22Dec2024 21:31:36.331] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[22Dec2024 21:31:36.331] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[22Dec2024 21:31:36.341] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[22Dec2024 21:31:36.348] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[22Dec2024 21:31:36.352] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[22Dec2024 21:31:36.360] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[22Dec2024 21:31:36.366] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[22Dec2024 21:31:36.374] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[22Dec2024 21:31:47.796] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[22Dec2024 21:31:47.804] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[22Dec2024 21:31:48.452] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[22Dec2024 21:31:48.465] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[22Dec2024 21:31:58.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:31:58.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:32:11.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [An Extra Seedy Place]
+[22Dec2024 21:32:11.801] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[22Dec2024 21:33:48.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[22Dec2024 21:33:48.948] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (7220 | 48 | -796).
+[22Dec2024 21:33:48.957] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[22Dec2024 21:33:48.959] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[22Dec2024 21:33:48.963] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[22Dec2024 21:33:48.963] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[22Dec2024 21:33:48.964] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[22Dec2024 21:33:48.964] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[22Dec2024 21:33:48.965] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 3(6) Nodes and 5(0) Rooms
+[22Dec2024 21:33:48.965] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[22Dec2024 21:33:48.965] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 6(0) Rooms
+[22Dec2024 21:33:48.965] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[22Dec2024 21:33:48.966] [Worker-Main-15/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[22Dec2024 21:33:59.933] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of farlanders:village/normal/centers/watch_tower
+[22Dec2024 21:33:59.956] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[22Dec2024 21:33:59.962] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[22Dec2024 21:34:16.332] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[22Dec2024 21:34:16.343] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[22Dec2024 21:34:21.186] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:tnt_minecart that already existed from 329bb561-ecc1-4b00-a3ae-21ed612cc7e6 to 823038be-d654-4bfd-bde9-7c6041b7c4e0
+[22Dec2024 21:34:21.194] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity artifacts:mimic that already existed from b04fe4f1-b2fb-466e-9dbf-7fa256fe8367 to 80b56834-9c77-4abc-a35f-a92130fcf672
+[22Dec2024 21:34:22.391] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[22Dec2024 21:34:22.446] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_2
+[22Dec2024 21:34:22.470] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[22Dec2024 21:34:22.498] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:lava_fountain
+[22Dec2024 21:34:22.510] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:meteor
+[22Dec2024 21:34:24.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22Dec2024 21:34:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[22Dec2024 21:34:50.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22Dec2024 21:35:13.708] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[22Dec2024 21:35:13.727] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[22Dec2024 21:35:40.890] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[22Dec2024 21:35:58.189] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[22Dec2024 21:36:01.705] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[22Dec2024 21:36:05.883] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[22Dec2024 21:36:05.888] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[22Dec2024 21:36:05.895] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[22Dec2024 21:36:05.900] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[22Dec2024 21:36:05.906] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[22Dec2024 21:36:12.520] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[22Dec2024 21:36:12.765] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[22Dec2024 21:36:12.783] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[22Dec2024 21:36:20.746] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[22Dec2024 21:36:20.756] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[22Dec2024 21:36:20.762] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[22Dec2024 21:36:20.769] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[22Dec2024 21:36:27.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[22Dec2024 21:36:28.991] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[22Dec2024 21:36:28.997] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[22Dec2024 21:36:29.002] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[22Dec2024 21:36:29.010] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[22Dec2024 21:36:29.016] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[22Dec2024 21:36:29.017] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[22Dec2024 21:36:29.021] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[22Dec2024 21:36:29.025] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[22Dec2024 21:36:29.029] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[22Dec2024 21:36:29.033] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[22Dec2024 21:36:29.037] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[22Dec2024 21:36:29.037] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[22Dec2024 21:36:38.247] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[22Dec2024 21:36:38.258] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[22Dec2024 21:36:38.286] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[22Dec2024 21:36:38.318] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[22Dec2024 21:36:38.326] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[22Dec2024 21:36:38.341] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[22Dec2024 21:36:38.345] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[22Dec2024 21:36:48.133] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[22Dec2024 21:36:48.164] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[22Dec2024 21:36:48.184] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[22Dec2024 21:36:48.820] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[22Dec2024 21:37:00.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:37:00.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:37:10.179] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_1
+[22Dec2024 21:37:10.186] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_4
+[22Dec2024 21:37:10.192] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_3
+[22Dec2024 21:37:10.200] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_2
+[22Dec2024 21:37:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Tunnel Treasures]
+[22Dec2024 21:37:16.749] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[22Dec2024 21:37:19.958] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_1
+[22Dec2024 21:37:19.968] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_2
+[22Dec2024 21:37:19.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[22Dec2024 21:37:20.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[22Dec2024 21:37:21.749] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[22Dec2024 21:37:21.755] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[22Dec2024 21:37:21.770] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[22Dec2024 21:37:21.776] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[22Dec2024 21:37:37.936] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[22Dec2024 21:37:38.905] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[22Dec2024 21:37:38.916] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[22Dec2024 21:37:38.932] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[22Dec2024 21:37:38.938] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[22Dec2024 21:37:38.946] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[22Dec2024 21:37:38.954] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[22Dec2024 21:37:38.955] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
