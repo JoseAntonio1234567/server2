@@ -10995,6 +10995,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2024-12-22 22:17:55 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_orange_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-22 22:03:48 +0000"

@@ -16632,3 +16632,17 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 22:08:49.620] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming mekanism/common/inventory/slot/chemical/SlurryInventorySlot (target of mekanism/common/inventory/slot/BasicInventorySlot)
 [22Dec2024 22:09:01.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 22:09:01.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:10:10.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[22Dec2024 22:10:10.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[22Dec2024 22:10:14.056] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/Action
+[22Dec2024 22:10:14.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[22Dec2024 22:10:25.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[22Dec2024 22:10:28.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22Dec2024 22:14:01.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 22:14:01.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:15:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[22Dec2024 22:17:55.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Your First Generator]
+[22Dec2024 22:18:28.720] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming mekanism/generators/common/slot/FluidFuelInventorySlot (target of mekanism/common/inventory/slot/BasicInventorySlot)
+[22Dec2024 22:19:01.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 22:19:01.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:19:50.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
