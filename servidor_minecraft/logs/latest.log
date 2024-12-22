@@ -2214,3 +2214,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 22:19:50.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [22Dec2024 22:26:09.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Seedy Place]
 [22Dec2024 22:27:19.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[22Dec2024 22:33:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[22Dec2024 22:34:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Tricking a Rock Into Thinking]
+[22Dec2024 22:34:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Alloy That Started it All]
+[22Dec2024 22:39:29.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
