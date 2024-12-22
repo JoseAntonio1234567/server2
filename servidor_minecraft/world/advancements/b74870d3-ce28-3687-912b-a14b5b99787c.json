@@ -798,6 +798,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2024-12-21 22:49:02 +0000",
+      "minecraft:beach": "2024-12-21 23:44:16 +0000",
       "minecraft:river": "2024-12-08 15:36:22 +0000",
       "minecraft:snowy_plains": "2024-12-08 15:00:44 +0000",
       "minecraft:dripstone_caves": "2024-12-08 15:47:36 +0000",
@@ -814,8 +815,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "lavender_forest": "2024-12-21 23:50:35 +0000",
       "mediterranean_forest": "2024-12-08 15:05:16 +0000",
-      "spider_nest": "2024-12-08 15:09:10 +0000"
+      "spider_nest": "2024-12-08 15:09:10 +0000",
+      "dune_beach": "2024-12-21 23:45:23 +0000",
+      "lavender_field": "2024-12-21 23:45:24 +0000"
     },
     "done": false
   },
@@ -5313,6 +5317,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 23:52:16 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_orange2": {
     "criteria": {
       "recipe_condition1": "2024-12-21 23:24:37 +0000"
@@ -6460,6 +6470,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 23:52:16 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-21 23:27:07 +0000"
@@ -6517,6 +6533,12 @@
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2024-12-21 23:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-21 23:52:16 +0000"
     },
     "done": true
   },
@@ -6709,6 +6731,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-21 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 23:52:16 +0000"
     },
     "done": true
   },
@@ -8062,6 +8090,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 23:52:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-21 22:46:46 +0000"
@@ -8389,6 +8423,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-12-21 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2024-12-21 23:51:18 +0000"
     },
     "done": true
   },
