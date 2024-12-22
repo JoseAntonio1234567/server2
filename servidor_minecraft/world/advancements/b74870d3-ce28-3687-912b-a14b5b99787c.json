@@ -8978,6 +8978,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2024-12-22 23:21:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2024-12-22 22:09:12 +0000"
@@ -9137,6 +9143,12 @@
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-22 22:39:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-12-22 23:21:45 +0000"
     },
     "done": true
   },
@@ -9495,6 +9507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 23:21:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-22 22:39:30 +0000"
@@ -9576,6 +9594,12 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2024-12-22 22:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 23:21:45 +0000"
     },
     "done": true
   },
@@ -9741,6 +9765,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-22 23:21:45 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2024-12-22 22:39:30 +0000"
@@ -9756,6 +9786,12 @@
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2024-12-22 22:09:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 23:21:45 +0000"
     },
     "done": true
   },
@@ -9792,6 +9828,18 @@
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-22 22:39:30 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 23:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 23:21:45 +0000"
     },
     "done": true
   },
@@ -9849,6 +9897,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-22 23:25:31 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 23:21:45 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2024-12-22 22:39:30 +0000"
@@ -9870,6 +9930,12 @@
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-22 22:39:30 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2024-12-22 23:21:45 +0000"
     },
     "done": true
   },
@@ -9918,6 +9984,12 @@
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2024-12-22 22:09:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-22 23:25:31 +0000"
     },
     "done": true
   },

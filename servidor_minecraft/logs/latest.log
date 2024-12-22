@@ -2224,3 +2224,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [22Dec2024 22:54:50.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [22Dec2024 22:56:37.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [22Dec2024 22:56:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A<--[HERE]
+[22Dec2024 23:25:23.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[22Dec2024 23:25:23.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
