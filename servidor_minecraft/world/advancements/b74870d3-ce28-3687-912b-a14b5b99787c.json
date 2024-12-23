@@ -10290,6 +10290,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2024-12-23 00:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_purple.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"

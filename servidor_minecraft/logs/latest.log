@@ -23,3 +23,13 @@
 [23Dec2024 00:17:38.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=6716, y=68, z=-1211}
 [23Dec2024 00:17:41.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6715, y=69, z=-1211} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
 [23Dec2024 00:17:41.197] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=6715, y=69, z=-1211}
+[23Dec2024 00:23:11.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[23Dec2024 00:23:57.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Tunnel Treasures]
+[23Dec2024 00:24:47.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[23Dec2024 00:24:59.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Dec2024 00:26:39.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Sculk Cymbal]
+[23Dec2024 00:27:46.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Sneak 100]
+[23Dec2024 00:28:54.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[23Dec2024 00:31:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Warden
+[23Dec2024 00:31:33.370] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[23Dec2024 00:31:42.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
