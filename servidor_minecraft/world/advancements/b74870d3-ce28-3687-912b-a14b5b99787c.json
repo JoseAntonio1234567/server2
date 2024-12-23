@@ -1574,6 +1574,7 @@
       "cooked_porkchop": "2024-12-22 21:24:42 +0000",
       "cooked_mutton": "2024-12-08 15:07:58 +0000",
       "cooked_beef": "2024-12-22 23:52:57 +0000",
+      "baked_potato": "2024-12-23 00:19:13 +0000",
       "bread": "2024-12-08 15:06:26 +0000"
     },
     "done": false
@@ -10247,9 +10248,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_brown.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-23 00:12:10 +0000"
     },
     "done": true
   },
@@ -10262,6 +10275,12 @@
   "colourfulearth:recipes/decorations/grass_dyed_cyan": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
     },
     "done": true
   },
@@ -10379,15 +10398,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-23 00:14:07 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_blue": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2024-12-23 00:00:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
     },
     "done": true
   },
@@ -10406,6 +10443,18 @@
   "colourfulearth:recipes/decorations/grass_dyed_magenta": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
     },
     "done": true
   },
@@ -10445,6 +10494,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_cyan.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
@@ -10454,6 +10509,12 @@
   "minecraft:recipes/decorations/grass_washed_magenta.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:14:07 +0000"
     },
     "done": true
   },
