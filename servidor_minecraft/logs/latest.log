@@ -33,3 +33,28 @@
 [23Dec2024 00:31:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Warden
 [23Dec2024 00:31:33.370] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [23Dec2024 00:31:42.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[23Dec2024 00:32:49.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Sneak 100]
+[23Dec2024 00:32:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was obliterated by a sonically-charged shriek
+[23Dec2024 00:32:57.552] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[23Dec2024 00:34:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Close Quarters]
+[23Dec2024 00:34:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Magic Writing]
+[23Dec2024 00:35:16.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Mutual Aid]
+[23Dec2024 00:35:16.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Traveling lightning rod]
+[23Dec2024 00:36:51.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was obliterated by a sonically-charged shriek
+[23Dec2024 00:36:51.877] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[23Dec2024 00:36:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[23Dec2024 00:36:57.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23Dec2024 00:37:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[23Dec2024 00:38:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was obliterated by a sonically-charged shriek
+[23Dec2024 00:38:06.312] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[23Dec2024 00:38:13.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
+[23Dec2024 00:38:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was obliterated by a sonically-charged shriek
+[23Dec2024 00:38:55.359] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[23Dec2024 00:39:02.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
+[23Dec2024 00:39:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Chain Death]
+[23Dec2024 00:39:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Warden
+[23Dec2024 00:39:07.110] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[23Dec2024 00:39:25.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has completed the challenge [Phantom Thief]
+[23Dec2024 00:40:06.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[23Dec2024 00:40:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[23Dec2024 00:41:55.448] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType

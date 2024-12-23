@@ -10302,6 +10302,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-23 00:35:30 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_red": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
@@ -10332,6 +10338,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 00:39:07 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_white": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
@@ -10356,9 +10368,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-23 00:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_green.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-23 00:34:52 +0000"
     },
     "done": true
   },
@@ -10368,9 +10392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-23 00:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_blue.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-23 00:35:16 +0000"
     },
     "done": true
   },
@@ -10392,6 +10428,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 00:35:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_grey.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
@@ -10401,6 +10443,12 @@
   "minecraft:recipes/decorations/grass_washed_black.json": {
     "criteria": {
       "has_grass_block": "2024-12-22 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-23 00:34:43 +0000"
     },
     "done": true
   },
@@ -10425,6 +10473,12 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2024-12-23 00:00:36 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/sculk_catalyst_slab": {
+    "criteria": {
+      "has_sculk_catalyst": "2024-12-23 00:39:27 +0000"
     },
     "done": true
   },
