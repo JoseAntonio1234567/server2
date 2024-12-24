@@ -10644,6 +10644,12 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2024-12-24 16:24:54 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-24 16:04:37 +0000"
@@ -10776,6 +10782,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-24 16:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-24 16:04:37 +0000"
@@ -10785,6 +10797,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-24 15:52:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-24 16:24:41 +0000"
     },
     "done": true
   },
@@ -10815,6 +10833,12 @@
   "handcrafted:recipes/misc/white_cup": {
     "criteria": {
       "has_white_cup": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-12-24 16:24:41 +0000"
     },
     "done": true
   },

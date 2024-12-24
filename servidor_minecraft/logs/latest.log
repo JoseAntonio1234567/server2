@@ -2207,3 +2207,8 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [24Dec2024 16:11:23.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Amateur Archaeologist]
 [24Dec2024 16:12:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [24Dec2024 16:14:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:21:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:24:41.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Industrial Revolution]
+[24Dec2024 16:26:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Alloy That Started it All]
+[24Dec2024 16:28:01.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[24Dec2024 16:28:01.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
