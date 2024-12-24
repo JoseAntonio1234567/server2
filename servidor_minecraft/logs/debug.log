@@ -17148,3 +17148,13 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [24Dec2024 16:45:28.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 16:46:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [24Dec2024 16:47:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[24Dec2024 16:49:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[24Dec2024 16:50:28.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:50:28.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:53:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:54:30.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/recipe/upgrade/RecipeUpgradeType
+[24Dec2024 16:54:30.267] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming mekanism/common/inventory/slot/FactoryInputInventorySlot (target of mekanism/common/inventory/slot/BasicInventorySlot)
+[24Dec2024 16:54:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [The Factory Must Grow!]
+[24Dec2024 16:55:28.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:55:28.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:56:14.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [The Factory Must Grow!]

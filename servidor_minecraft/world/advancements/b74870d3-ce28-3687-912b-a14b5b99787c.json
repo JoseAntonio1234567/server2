@@ -10608,9 +10608,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-24 16:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -10656,6 +10692,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-24 16:04:37 +0000"
@@ -10671,6 +10713,12 @@
   "new_slab_variants:recipes/building_blocks/white_concrete_slab": {
     "criteria": {
       "has_white_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -10692,6 +10740,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/white_industrial_lamp": {
     "criteria": {
       "has_white_industrial_lamp": "2024-12-24 16:04:37 +0000"
@@ -10701,6 +10761,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -10743,6 +10809,18 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-24 14:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -10800,6 +10878,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-24 16:54:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-24 16:41:52 +0000"
@@ -10830,15 +10914,51 @@
     },
     "done": true
   },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-24 16:04:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_white_industrial_lamp": {
     "criteria": {
       "has_small_white_industrial_lamp": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -10866,6 +10986,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-12-24 16:54:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-24 16:41:52 +0000"
@@ -10881,6 +11007,12 @@
   "cfm:recipes/decorations/green_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -10968,6 +11100,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-24 16:54:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-24 16:41:52 +0000"
@@ -10983,6 +11121,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-24 15:08:31 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
@@ -11010,6 +11154,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-12-24 16:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-24 16:04:37 +0000"
@@ -11022,6 +11172,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-12-24 16:54:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-24 14:53:21 +0000"
@@ -11031,6 +11187,12 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 16:48:53 +0000"
     },
     "done": true
   },
