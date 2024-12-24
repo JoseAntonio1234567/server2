@@ -2221,3 +2221,6 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [24Dec2024 16:32:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [24Dec2024 16:33:38.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [24Dec2024 16:34:21.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:39:37.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[24Dec2024 16:46:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[24Dec2024 16:47:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]

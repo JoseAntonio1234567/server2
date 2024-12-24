@@ -10602,9 +10602,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
@@ -10650,6 +10668,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_concrete_slab": {
+    "criteria": {
+      "has_white_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-24 16:04:37 +0000"
@@ -10668,6 +10698,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/tackle_box": {
     "criteria": {
       "has_items": "2024-12-24 15:47:25 +0000"
@@ -10683,6 +10719,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-24 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
@@ -10710,6 +10752,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-24 14:51:30 +0000"
@@ -10719,6 +10767,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2024-12-24 15:08:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
@@ -10743,6 +10797,18 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2024-12-24 14:56:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
@@ -10782,6 +10848,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/steel_block": {
     "criteria": {
       "has_steel_block": "2024-12-24 16:24:41 +0000"
@@ -10794,9 +10866,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
@@ -10848,6 +10932,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2024-12-24 16:04:37 +0000"
@@ -10878,6 +10968,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-24 15:08:31 +0000"
@@ -10893,6 +10995,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
@@ -10917,6 +11025,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-24 14:53:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-24 16:41:52 +0000"
     },
     "done": true
   },
