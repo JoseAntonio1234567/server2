@@ -11314,9 +11314,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-24 16:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 14:57:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-24 16:01:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-24 16:01:53 +0000"
     },
     "done": true
   },
@@ -11386,6 +11404,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-24 16:01:53 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/raw_gold_block_slab": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-24 16:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-24 15:20:52 +0000"
@@ -11428,6 +11458,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2024-12-24 16:01:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-12-24 14:52:22 +0000"
@@ -11443,6 +11479,12 @@
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 14:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 16:01:53 +0000"
     },
     "done": true
   },
@@ -11536,6 +11578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 16:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-24 14:50:54 +0000"
@@ -11551,6 +11599,12 @@
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 14:57:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-24 16:01:33 +0000"
     },
     "done": true
   },

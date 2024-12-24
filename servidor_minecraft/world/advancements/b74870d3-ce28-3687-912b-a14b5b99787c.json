@@ -10602,6 +10602,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2024-12-24 15:08:31 +0000"
@@ -10614,9 +10626,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-24 16:04:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2024-12-24 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2024-12-24 16:04:37 +0000"
     },
     "done": true
   },
@@ -10638,9 +10680,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-24 16:04:33 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-24 14:51:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2024-12-24 16:04:37 +0000"
     },
     "done": true
   },
@@ -10662,9 +10722,57 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2024-12-24 14:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
+    "criteria": {
+      "has_small_white_industrial_lamp": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 16:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-24 16:04:37 +0000"
     },
     "done": true
   },
@@ -10680,15 +10788,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-12-24 15:15:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2024-12-24 14:51:30 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 16:04:33 +0000"
     },
     "done": true
   },
@@ -10701,6 +10851,24 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2024-12-24 15:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-24 16:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-24 16:04:37 +0000"
     },
     "done": true
   },

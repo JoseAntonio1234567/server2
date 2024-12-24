@@ -2191,3 +2191,9 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [24Dec2024 15:56:32.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 died
 [24Dec2024 15:56:32.881] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [24Dec2024 15:56:37.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[24Dec2024 15:59:53.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[24Dec2024 16:02:31.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[24Dec2024 16:02:38.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[24Dec2024 16:05:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 4159]
+[24Dec2024 16:06:32.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:07:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
