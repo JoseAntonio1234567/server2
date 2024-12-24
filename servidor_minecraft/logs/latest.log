@@ -2162,3 +2162,16 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [24Dec2024 15:19:02.177] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [24Dec2024 15:19:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [24Dec2024 15:26:13.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
+[24Dec2024 15:27:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 15:28:02.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[24Dec2024 15:28:30.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Dec2024 15:28:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[24Dec2024 15:31:31.410] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Dec2024 15:33:01.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo burned to death
+[24Dec2024 15:33:01.935] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[24Dec2024 15:33:01.949] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[24Dec2024 15:33:10.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[24Dec2024 15:33:25.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 15:33:25.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[24Dec2024 15:33:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 15:33:59.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6682, y=118, z=-611} BlockPos{x=6683, y=116, z=-612}
