@@ -17121,3 +17121,23 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [24Dec2024 16:26:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Alloy That Started it All]
 [24Dec2024 16:28:01.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
 [24Dec2024 16:28:01.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[24Dec2024 16:28:53.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:29:50.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[24Dec2024 16:29:50.198] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:6603, y:51, z:-712, dim:minecraft:overworld]
+[24Dec2024 16:29:50.275] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[24Dec2024 16:29:51.555] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[24Dec2024 16:29:51.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[24Dec2024 16:29:52.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[24Dec2024 16:29:52.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[24Dec2024 16:29:52.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[24Dec2024 16:30:28.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:30:28.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:31:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Industrial Revolution]
+[24Dec2024 16:31:38.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:32:03.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[24Dec2024 16:32:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:33:38.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[24Dec2024 16:34:21.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[24Dec2024 16:35:28.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:35:28.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:35:52.932] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/legacy/blue_skies/client/gui/menu/ArcSlot (target of net/minecraft/world/inventory/Slot)
