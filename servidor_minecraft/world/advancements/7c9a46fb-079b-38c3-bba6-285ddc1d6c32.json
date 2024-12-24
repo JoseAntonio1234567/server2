@@ -5076,6 +5076,7 @@
       "minecraft:skeleton": "2024-12-08 15:43:27 +0000",
       "minecraft:spider": "2024-12-08 15:48:08 +0000",
       "minecraft:creeper": "2024-12-08 15:43:54 +0000",
+      "minecraft:zombified_piglin": "2024-12-24 15:11:56 +0000",
       "minecraft:cave_spider": "2024-12-08 15:43:15 +0000",
       "minecraft:zombie": "2024-12-08 15:35:48 +0000",
       "minecraft:zombie_villager": "2024-12-08 15:45:47 +0000"
@@ -11373,6 +11374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-24 15:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 14:57:19 +0000"
@@ -11388,6 +11395,12 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-12-24 14:52:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2024-12-24 15:06:41 +0000"
     },
     "done": true
   },
@@ -11454,6 +11467,12 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 14:57:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-24 15:07:35 +0000"
     },
     "done": true
   },
