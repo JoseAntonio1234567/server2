@@ -10643,6 +10643,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-24 15:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2024-12-24 14:51:30 +0000"
