@@ -16390,3 +16390,19 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 16:31:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> ensamblador de vagoneta
 [25Dec2024 16:34:06.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 16:34:06.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 16:37:02.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> 3 boveda de objetos
+[25Dec2024 16:37:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> 2 interfaz de almacenamiento
+[25Dec2024 16:38:32.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Under Pressure]
+[25Dec2024 16:38:37.403] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[25Dec2024 16:38:37.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[25Dec2024 16:39:06.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 16:39:06.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 16:39:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> 7 sieras mecanicas y 7 desplegadores
+[25Dec2024 16:40:12.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 16:42:27.018] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/simibubi/create/foundation/blockEntity/behaviour/inventory/VersionedInventoryWrapper (target of net/minecraftforge/items/IItemHandler)
+[25Dec2024 16:42:35.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Andesite Age]
+[25Dec2024 16:42:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 16:44:06.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 16:44:06.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 16:44:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 16:44:23.661] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/simibubi/create/foundation/item/ItemHandlerWrapper (target of net/minecraftforge/items/IItemHandler)

@@ -11208,9 +11208,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2024-12-25 16:36:38 +0000"
+    },
+    "done": true
+  },
   "farlanders:kill_classic_enderman": {
     "criteria": {
       "kill_enderman": "2024-12-25 16:21:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2024-12-25 16:36:38 +0000"
     },
     "done": true
   },
