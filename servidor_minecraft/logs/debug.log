@@ -17030,3 +17030,102 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 17:26:18.838] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [25Dec2024 17:26:19.938] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
 [25Dec2024 17:26:25.910] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[25Dec2024 17:26:28.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was burnt to a crisp whilst fighting Piglin Brute
+[25Dec2024 17:26:28.305] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:715, y:71, z:-38, dim:minecraft:the_nether]
+[25Dec2024 17:26:28.310] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:26:30.244] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[25Dec2024 17:26:36.554] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6642, y=104, z=-638} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Dec2024 17:27:38.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[25Dec2024 17:27:57.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 17:27:57.907] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:734, y:70, z:-22, dim:minecraft:the_nether]
+[25Dec2024 17:27:57.927] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:27:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[25Dec2024 17:27:59.393] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[25Dec2024 17:27:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Piglin Brute
+[25Dec2024 17:27:59.422] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:739, y:71, z:-17, dim:minecraft:the_nether]
+[25Dec2024 17:27:59.448] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:28:00.885] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[25Dec2024 17:28:05.205] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[25Dec2024 17:28:06.963] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6642, y=104, z=-638} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Dec2024 17:28:31.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[25Dec2024 17:28:31.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[25Dec2024 17:29:30.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 17:29:30.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 17:30:03.723] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming noobanidus/mods/lootr/data/SpecialChestInventory (target of net/minecraft/world/Container)
+[25Dec2024 17:30:03.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [War Pigs]
+[25Dec2024 17:30:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Cover Me with Diamonds]
+[25Dec2024 17:31:19.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[25Dec2024 17:32:21.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[25Dec2024 17:32:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Who is Cutting Onions?]
+[25Dec2024 17:32:47.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Who is Cutting Onions?]
+[25Dec2024 17:32:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ice Bucket Challenge]
+[25Dec2024 17:32:52.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[25Dec2024 17:32:52.202] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6645, y:63, z:-599, dim:minecraft:overworld]
+[25Dec2024 17:32:52.204] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[25Dec2024 17:32:53.524] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[25Dec2024 17:32:55.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[25Dec2024 17:32:59.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Dec2024 17:33:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 tried to swim in lava
+[25Dec2024 17:33:33.609] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:737, y:68, z:-28, dim:minecraft:the_nether]
+[25Dec2024 17:33:33.612] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:33:34.974] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[25Dec2024 17:33:35.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[25Dec2024 17:33:35.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[25Dec2024 17:33:36.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[25Dec2024 17:33:36.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[25Dec2024 17:33:36.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[25Dec2024 17:33:38.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[25Dec2024 17:33:38.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[25Dec2024 17:33:40.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[25Dec2024 17:33:40.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[25Dec2024 17:33:43.019] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[25Dec2024 17:33:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[25Dec2024 17:33:50.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 burned to death
+[25Dec2024 17:33:50.664] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:734, y:69, z:-28, dim:minecraft:the_nether]
+[25Dec2024 17:33:50.672] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:33:52.274] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[25Dec2024 17:33:59.266] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6642, y=104, z=-638} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Dec2024 17:34:23.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 17:34:23.366] [Server thread/DEBUG] [tombstone/]: A new grave of the player joselete123 was created at position [x:736, y:61, z:-32, dim:minecraft:the_nether]
+[25Dec2024 17:34:23.400] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:34:24.791] [Server thread/DEBUG] [twilightforest/]: Player joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32) respawned and received items held in storage
+[25Dec2024 17:34:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Piglin Brute
+[25Dec2024 17:34:25.761] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:733, y:61, z:-33, dim:minecraft:the_nether]
+[25Dec2024 17:34:25.789] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:34:26.993] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage
+[25Dec2024 17:34:30.756] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[25Dec2024 17:34:30.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[25Dec2024 17:34:30.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/tower/whole
+[25Dec2024 17:34:30.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gilded_blackstone
+[25Dec2024 17:34:30.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/bridge_chest
+[25Dec2024 17:34:30.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/treasure_chest
+[25Dec2024 17:34:30.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/normal
+[25Dec2024 17:34:30.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/piglins
+[25Dec2024 17:34:30.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/nether_wart
+[25Dec2024 17:34:30.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/blaze_spawner
+[25Dec2024 17:34:30.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/ruined
+[25Dec2024 17:34:30.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/gold
+[25Dec2024 17:34:30.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/chisel
+[25Dec2024 17:34:30.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/glowstone
+[25Dec2024 17:34:30.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[25Dec2024 17:34:30.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/hoglin_spawner
+[25Dec2024 17:34:30.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/netherite
+[25Dec2024 17:34:31.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1
+[25Dec2024 17:34:31.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[25Dec2024 17:34:31.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[25Dec2024 17:34:32.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[25Dec2024 17:34:32.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[25Dec2024 17:34:33.453] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=6642, y=104, z=-638} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25Dec2024 17:34:33.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[25Dec2024 17:34:34.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 17:34:34.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 17:34:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Hidden in the Depths]
+[25Dec2024 17:35:03.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[25Dec2024 17:35:03.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[25Dec2024 17:35:10.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Hidden in the Depths]
+[25Dec2024 17:35:36.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[25Dec2024 17:36:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[25Dec2024 17:36:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 burned to death
+[25Dec2024 17:36:50.583] [Server thread/DEBUG] [tombstone/]: A new grave of the player myser444 was created at position [x:709, y:71, z:-39, dim:minecraft:the_nether]
+[25Dec2024 17:36:50.596] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:36:52.489] [Server thread/DEBUG] [twilightforest/]: Player myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2) respawned and received items held in storage

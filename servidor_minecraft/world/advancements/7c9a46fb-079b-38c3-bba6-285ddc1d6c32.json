@@ -11710,9 +11710,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -11725,6 +11737,12 @@
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -11765,6 +11783,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-25 17:00:57 +0000"
@@ -11774,6 +11810,24 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-25 17:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
     },
     "done": true
   },
@@ -11795,6 +11849,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
@@ -11804,6 +11870,12 @@
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -11831,15 +11903,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-12-25 16:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
     },
     "done": true
   },
@@ -11864,6 +11954,12 @@
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-25 17:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
     },
     "done": true
   },
@@ -11903,6 +11999,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-25 17:32:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -11912,6 +12014,12 @@
   "blue_skies:recipes/building_blocks/glowing_poison_stone": {
     "criteria": {
       "has_item": "2024-12-25 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-25 17:30:05 +0000"
     },
     "done": true
   },
@@ -11930,6 +12038,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-25 17:30:15 +0000"
     },
     "done": true
   },
@@ -11960,6 +12074,18 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_ingredient": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -11999,6 +12125,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2024-12-25 17:28:07 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
     "criteria": {
       "has_stripped_dark_oak_log": "2024-12-25 16:47:48 +0000"
@@ -12014,6 +12146,12 @@
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -12035,9 +12173,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_casing": {
     "criteria": {
       "steel_casing": "2024-12-25 16:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-25 17:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
     },
     "done": true
   },
@@ -12053,6 +12227,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2024-12-25 17:00:57 +0000"
@@ -12065,9 +12263,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-25 17:28:57 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2024-12-25 17:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -12095,6 +12323,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/wrench": {
     "criteria": {
       "has_wrench": "2024-12-25 16:39:37 +0000"
@@ -12113,9 +12347,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
     },
     "done": true
   },
@@ -12131,15 +12383,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-25 16:55:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "ad_astra:under_pressure": {
     "criteria": {
       "has_compressor": "2024-12-25 16:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
     },
     "done": true
   },
@@ -12179,6 +12461,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-25 17:30:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -12203,6 +12509,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-25 17:32:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-25 16:47:48 +0000"
@@ -12221,6 +12539,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-25 17:22:08 +0000"
@@ -12236,6 +12560,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
     },
     "done": true
   },
@@ -12263,6 +12593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-25 16:55:29 +0000"
@@ -12281,9 +12617,27 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plateblock": {
     "criteria": {
       "has_iron_plateblock": "2024-12-25 16:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -12293,9 +12647,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gilded_blackstone_slab": {
+    "criteria": {
+      "has_gilded_blackstone": "2024-12-25 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-25 16:42:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2024-12-25 17:29:59 +0000"
     },
     "done": true
   },
@@ -12308,6 +12674,18 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/building_blocks/large_brick_chimney": {
+    "criteria": {
+      "has_item": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
     },
     "done": true
   },
@@ -12329,9 +12707,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-25 17:30:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/dark_oak_beam": {
     "criteria": {
       "has_stripped_log": "2024-12-25 16:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
     },
     "done": true
   },
@@ -12347,6 +12737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -12359,9 +12755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-25 17:29:59 +0000"
     },
     "done": true
   },
@@ -12383,15 +12791,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-25 17:29:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
     },
     "done": true
   },
@@ -12419,6 +12845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2024-12-25 16:40:00 +0000"
@@ -12428,6 +12860,18 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-25 17:29:54 +0000"
     },
     "done": true
   },
