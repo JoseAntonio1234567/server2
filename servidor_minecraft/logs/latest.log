@@ -2125,3 +2125,26 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 22:42:32.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [25Dec2024 22:45:14.623] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [25Dec2024 22:47:37.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[25Dec2024 22:47:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 22:49:27.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was doomed to fall
+[25Dec2024 22:49:27.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[25Dec2024 22:49:27.837] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[25Dec2024 22:49:27.907] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 22:49:29.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[25Dec2024 22:49:32.280] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[25Dec2024 22:49:40.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 22:50:24.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 22:51:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[25Dec2024 22:52:19.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[25Dec2024 22:53:22.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:48267] logged in with entity id 8440 at (6654.731092938182, 114.0, -660.3000000119209)
+[25Dec2024 22:53:22.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[25Dec2024 22:53:22.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[25Dec2024 22:53:22.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[25Dec2024 22:53:22.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[25Dec2024 22:53:22.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[25Dec2024 22:53:22.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[25Dec2024 22:53:22.904] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[25Dec2024 22:53:22.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[25Dec2024 22:53:23.323] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[25Dec2024 22:56:35.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -2.9830223248909533,1.0,-9.719350458258077
+[25Dec2024 22:56:37.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
