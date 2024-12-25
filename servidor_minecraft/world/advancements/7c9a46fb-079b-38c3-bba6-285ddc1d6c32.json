@@ -5078,6 +5078,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 15:43:27 +0000",
+      "minecraft:magma_cube": "2024-12-25 17:36:29 +0000",
       "minecraft:spider": "2024-12-08 15:48:08 +0000",
       "minecraft:piglin_brute": "2024-12-25 17:02:01 +0000",
       "minecraft:creeper": "2024-12-08 15:43:54 +0000",
@@ -11765,6 +11766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 17:34:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2024-12-25 16:41:10 +0000"
@@ -11909,9 +11916,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-25 17:40:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 17:34:57 +0000"
     },
     "done": true
   },
@@ -12227,6 +12246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-25 17:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 17:29:59 +0000"
@@ -12392,6 +12417,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-25 16:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-25 17:34:57 +0000"
     },
     "done": true
   },
@@ -12686,6 +12717,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-25 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 17:34:57 +0000"
     },
     "done": true
   },

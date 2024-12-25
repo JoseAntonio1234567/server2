@@ -2219,3 +2219,20 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 17:36:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
 [25Dec2024 17:36:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 burned to death
 [25Dec2024 17:36:50.596] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:37:38.500] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Dec2024 17:37:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin
+[25Dec2024 17:37:45.367] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:37:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Piglin Brute
+[25Dec2024 17:37:52.001] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:38:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 17:38:19.263] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:39:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Piglin Brute
+[25Dec2024 17:39:08.424] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[25Dec2024 17:39:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 17:39:10.862] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:40:09.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 17:40:09.935] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 17:40:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[25Dec2024 17:40:43.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [War Pigs]
+[25Dec2024 17:40:43.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Disme A Dozen]
+[25Dec2024 17:46:19.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
