@@ -7140,6 +7140,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-25 17:51:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-12-25 17:08:12 +0000"
@@ -7302,6 +7308,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-25 17:56:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2024-12-25 16:58:57 +0000"
@@ -7350,6 +7362,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2024-12-25 17:56:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-12-25 17:21:55 +0000"
@@ -7365,6 +7383,12 @@
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2024-12-25 17:29:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2024-12-25 18:01:53 +0000"
     },
     "done": true
   },
@@ -7755,6 +7779,12 @@
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-25 17:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-25 17:57:16 +0000"
     },
     "done": true
   },
