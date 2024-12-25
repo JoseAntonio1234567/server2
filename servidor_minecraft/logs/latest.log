@@ -2282,3 +2282,15 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 18:17:55.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [25Dec2024 18:17:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
 [25Dec2024 18:38:11.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[25Dec2024 19:41:49.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:42233] logged in with entity id 49568 at (6619.618033425953, 104.0, -648.8051307123998)
+[25Dec2024 19:41:49.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[25Dec2024 19:41:49.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[25Dec2024 19:41:49.632] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[25Dec2024 19:41:49.633] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[25Dec2024 19:41:49.652] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[25Dec2024 19:41:49.663] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[25Dec2024 19:41:49.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[25Dec2024 19:41:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[25Dec2024 19:41:49.936] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[25Dec2024 19:41:50.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[25Dec2024 19:42:59.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5646ms or 112 ticks behind
