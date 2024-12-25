@@ -2454,3 +2454,9 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 22:01:54.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
 [25Dec2024 22:01:54.271] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [25Dec2024 22:02:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[25Dec2024 22:03:14.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gave 1 [Command Block] to joselete123]
+[25Dec2024 22:03:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 22:07:21.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Gave 64 [Block of Redstone] to carloselpillo]
+[25Dec2024 22:07:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> fsdffgew
+[25Dec2024 22:08:08.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 22:12:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]

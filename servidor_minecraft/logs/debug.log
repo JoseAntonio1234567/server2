@@ -20456,3 +20456,13 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 22:01:54.271] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [25Dec2024 22:01:55.459] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
 [25Dec2024 22:02:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[25Dec2024 22:03:14.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gave 1 [Command Block] to joselete123]
+[25Dec2024 22:03:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 22:06:37.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:06:37.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:07:21.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Gave 64 [Block of Redstone] to carloselpillo]
+[25Dec2024 22:07:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> fsdffgew
+[25Dec2024 22:08:08.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 22:11:37.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:11:37.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:12:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
