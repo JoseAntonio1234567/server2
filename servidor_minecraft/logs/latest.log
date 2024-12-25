@@ -2082,3 +2082,24 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 16:02:25.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [25Dec2024 16:03:11.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [25Dec2024 16:04:37.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[25Dec2024 16:04:44.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
+[25Dec2024 16:04:44.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
+[25Dec2024 16:05:27.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[25Dec2024 16:06:02.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gave 320 [Iron Ingot] to joselete123]
+[25Dec2024 16:06:51.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:58517] logged in with entity id 2030 at (6621.360436412809, 67.0, -709.2247826673376)
+[25Dec2024 16:06:51.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to carloselpillo
+[25Dec2024 16:06:51.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to carloselpillo
+[25Dec2024 16:06:51.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to carloselpillo
+[25Dec2024 16:06:51.223] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to carloselpillo
+[25Dec2024 16:06:51.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to carloselpillo
+[25Dec2024 16:06:51.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to carloselpillo
+[25Dec2024 16:06:51.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to carloselpillo
+[25Dec2024 16:06:51.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[25Dec2024 16:06:51.597] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[25Dec2024 16:07:10.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[25Dec2024 16:07:10.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[25Dec2024 16:07:22.591] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[25Dec2024 16:11:08.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 16:12:10.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[25Dec2024 16:13:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Perfect Foundation]
+[25Dec2024 16:14:26.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
