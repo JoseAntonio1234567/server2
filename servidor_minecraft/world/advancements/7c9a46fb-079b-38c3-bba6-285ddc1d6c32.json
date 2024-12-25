@@ -9031,7 +9031,8 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
-      "baby_creeper": "2024-12-21 22:49:44 +0000"
+      "baby_creeper": "2024-12-21 22:49:44 +0000",
+      "baby_skeleton": "2024-12-25 20:28:53 +0000"
     },
     "done": false
   },
@@ -12918,9 +12919,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-25 20:30:49 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2024-12-25 20:30:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
       "has_netherite_pickaxe": "2024-12-25 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-25 20:29:28 +0000"
     },
     "done": true
   },
