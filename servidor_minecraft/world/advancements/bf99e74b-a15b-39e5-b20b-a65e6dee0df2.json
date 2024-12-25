@@ -820,6 +820,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-12-25 20:16:05 +0000",
+      "shrubland": "2024-12-25 23:23:40 +0000",
+      "rocky_shrubland": "2024-12-25 23:27:15 +0000",
       "erupting_inferno": "2024-12-25 17:00:34 +0000",
       "crystalline_chasm": "2024-12-25 16:56:45 +0000",
       "lavender_forest": "2024-12-25 18:08:12 +0000",
@@ -8974,15 +8976,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_cupboard": {
     "criteria": {
       "has_cherry_cupboard": "2024-12-25 23:16:26 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 23:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-25 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-12-25 23:18:21 +0000"
     },
     "done": true
   },
@@ -8998,6 +9018,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/light_gray_wool_slab": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-25 23:15:29 +0000"
@@ -9007,6 +9039,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2024-12-25 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2024-12-25 23:18:24 +0000"
     },
     "done": true
   },
@@ -9031,6 +9069,12 @@
   "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-25 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-25 23:20:10 +0000"
     },
     "done": true
   },
@@ -9095,9 +9139,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-25 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2024-12-25 23:20:10 +0000"
     },
     "done": true
   },
@@ -9119,6 +9175,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 23:23:20 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2024-12-25 23:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-25 23:15:29 +0000"
@@ -9128,6 +9196,12 @@
   "mcwbridges:recipes/rope_cherry_bridge": {
     "criteria": {
       "has_planks": "2024-12-25 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-25 23:23:20 +0000"
     },
     "done": true
   },
@@ -9149,6 +9223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 23:23:20 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cherry": {
     "criteria": {
       "has_wood": "2024-12-25 23:16:26 +0000"
@@ -9167,9 +9247,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_cherry": {
     "criteria": {
       "has_the_recipe": "2024-12-25 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-25 23:21:10 +0000"
     },
     "done": true
   },
@@ -9203,9 +9301,21 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-25 23:22:33 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/cherry_log_slab": {
     "criteria": {
       "has_cherry_log": "2024-12-25 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_archeology_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-25 23:18:24 +0000"
     },
     "done": true
   },
@@ -9305,6 +9415,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 23:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-25 23:16:26 +0000"
@@ -9317,6 +9433,18 @@
     },
     "done": true
   },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2024-12-25 23:18:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2024-12-25 23:20:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-25 23:15:29 +0000"
@@ -9326,6 +9454,12 @@
   "handcrafted:recipes/misc/cherry_shelf": {
     "criteria": {
       "has_cherry_shelf": "2024-12-25 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-25 23:20:10 +0000"
     },
     "done": true
   },
