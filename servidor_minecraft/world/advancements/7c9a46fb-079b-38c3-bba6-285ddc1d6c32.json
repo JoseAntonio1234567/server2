@@ -13048,6 +13048,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-12-25 21:28:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_feather_fall": {
     "criteria": {
       "has_magic_scroll": "2024-12-25 20:58:08 +0000"
@@ -13069,6 +13075,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-25 20:57:54 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-12-25 21:28:54 +0000"
     },
     "done": true
   },
@@ -13159,6 +13171,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2024-12-25 20:45:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-25 21:28:54 +0000"
     },
     "done": true
   },
@@ -13258,6 +13276,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-25 21:28:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-12-25 21:13:40 +0000"
@@ -13267,6 +13291,12 @@
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2024-12-25 20:45:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-25 21:28:54 +0000"
     },
     "done": true
   },

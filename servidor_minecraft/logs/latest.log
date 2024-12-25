@@ -2440,3 +2440,6 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 21:15:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [25Dec2024 21:16:38.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Workout Session]
 [25Dec2024 21:16:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [Bone Crusher]
+[25Dec2024 21:22:40.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66889, l='ServerLevel[world]', x=6646.60, y=103.94, z=-624.31] died, message: 'Unemployed was slain by Zombie'
+[25Dec2024 21:22:52.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/66872, l='ServerLevel[world]', x=6640.54, y=104.56, z=-626.57] died, message: 'Farmer was slain by Zombie'
+[25Dec2024 21:25:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

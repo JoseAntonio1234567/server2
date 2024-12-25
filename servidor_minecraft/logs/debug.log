@@ -20419,3 +20419,10 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 21:21:37.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 21:21:37.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 21:22:17.967] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/legacy/blue_skies/client/gui/menu/ArcSlot (target of net/minecraft/world/inventory/Slot)
+[25Dec2024 21:22:40.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66889, l='ServerLevel[world]', x=6646.60, y=103.94, z=-624.31] died, message: 'Unemployed was slain by Zombie'
+[25Dec2024 21:22:52.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/66872, l='ServerLevel[world]', x=6640.54, y=104.56, z=-626.57] died, message: 'Farmer was slain by Zombie'
+[25Dec2024 21:25:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 21:26:37.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:26:37.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:31:37.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:31:37.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
