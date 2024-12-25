@@ -2148,3 +2148,13 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 22:53:23.323] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
 [25Dec2024 22:56:35.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -2.9830223248909533,1.0,-9.719350458258077
 [25Dec2024 22:56:37.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[25Dec2024 22:58:38.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[25Dec2024 23:01:18.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[25Dec2024 23:01:38.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[25Dec2024 23:01:48.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[25Dec2024 23:02:06.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[25Dec2024 23:05:56.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[25Dec2024 23:06:53.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -1.7553965142133166,0.24918707874468282,-9.8708135524123
+[25Dec2024 23:06:53.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[25Dec2024 23:06:58.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -7.983229779645626,-0.001335979112141672,-6.5574261964148945
+[25Dec2024 23:07:16.856] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
