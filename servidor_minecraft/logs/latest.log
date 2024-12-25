@@ -2281,3 +2281,4 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 18:16:00.168] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [25Dec2024 18:17:55.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [25Dec2024 18:17:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[25Dec2024 18:38:11.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
