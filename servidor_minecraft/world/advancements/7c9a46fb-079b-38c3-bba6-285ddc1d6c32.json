@@ -828,6 +828,7 @@
       "cold_desert": "2024-12-08 14:45:12 +0000",
       "old_growth_woodland": "2024-12-22 15:04:38 +0000",
       "crystalline_chasm": "2024-12-25 16:54:58 +0000",
+      "withered_abyss": "2024-12-25 20:54:08 +0000",
       "lavender_forest": "2024-12-08 15:36:43 +0000",
       "mediterranean_forest": "2024-12-08 14:50:44 +0000",
       "spider_nest": "2024-12-08 15:14:27 +0000",
@@ -5083,6 +5084,7 @@
       "minecraft:piglin_brute": "2024-12-25 17:02:01 +0000",
       "minecraft:creeper": "2024-12-08 15:43:54 +0000",
       "minecraft:zombified_piglin": "2024-12-24 15:11:56 +0000",
+      "minecraft:wither_skeleton": "2024-12-25 20:57:24 +0000",
       "minecraft:cave_spider": "2024-12-08 15:43:15 +0000",
       "minecraft:piglin": "2024-12-25 17:00:33 +0000",
       "minecraft:zombie": "2024-12-08 15:35:48 +0000",
@@ -9031,6 +9033,7 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
+      "baby_wither_skeleton": "2024-12-25 20:52:39 +0000",
       "baby_creeper": "2024-12-21 22:49:44 +0000",
       "baby_skeleton": "2024-12-25 20:28:53 +0000"
     },
@@ -12919,9 +12922,27 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-25 21:00:37 +0000"
+    },
+    "done": true
+  },
   "adchimneys:recipes/building_blocks/small_brick_chimney": {
     "criteria": {
       "has_item": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-25 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-25 20:56:28 +0000"
     },
     "done": true
   },
@@ -12943,6 +12964,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-25 21:00:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
       "has_netherite_pickaxe": "2024-12-25 20:17:32 +0000"
@@ -12961,9 +12988,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-25 20:57:54 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-25 20:52:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-25 20:58:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-25 21:00:37 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-25 20:57:54 +0000"
     },
     "done": true
   },
@@ -12997,15 +13054,33 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-25 20:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-25 20:37:40 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-25 20:58:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-25 20:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-25 20:55:42 +0000"
     },
     "done": true
   },
@@ -13039,6 +13114,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-25 21:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-25 20:37:40 +0000"
@@ -13048,6 +13129,12 @@
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-25 20:52:36 +0000"
     },
     "done": true
   },
@@ -13069,6 +13156,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-25 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-25 21:00:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2024-12-25 20:37:40 +0000"
@@ -13078,6 +13177,12 @@
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2024-12-25 20:45:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-25 21:00:37 +0000"
     },
     "done": true
   },
