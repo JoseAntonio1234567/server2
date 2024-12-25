@@ -824,8 +824,10 @@
     "criteria": {
       "woodland": "2024-12-22 21:36:45 +0000",
       "scrubland": "2024-12-08 14:47:10 +0000",
+      "erupting_inferno": "2024-12-25 17:00:23 +0000",
       "cold_desert": "2024-12-08 14:45:12 +0000",
       "old_growth_woodland": "2024-12-22 15:04:38 +0000",
+      "crystalline_chasm": "2024-12-25 16:54:58 +0000",
       "lavender_forest": "2024-12-08 15:36:43 +0000",
       "mediterranean_forest": "2024-12-08 14:50:44 +0000",
       "spider_nest": "2024-12-08 15:14:27 +0000",
@@ -4129,6 +4131,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-25 16:59:29 +0000",
       "cooked_mutton": "2024-12-25 16:02:17 +0000",
       "cooked_beef": "2024-12-21 22:36:20 +0000",
       "apple": "2024-12-08 14:58:00 +0000",
@@ -5076,9 +5079,11 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 15:43:27 +0000",
       "minecraft:spider": "2024-12-08 15:48:08 +0000",
+      "minecraft:piglin_brute": "2024-12-25 17:02:01 +0000",
       "minecraft:creeper": "2024-12-08 15:43:54 +0000",
       "minecraft:zombified_piglin": "2024-12-24 15:11:56 +0000",
       "minecraft:cave_spider": "2024-12-08 15:43:15 +0000",
+      "minecraft:piglin": "2024-12-25 17:00:33 +0000",
       "minecraft:zombie": "2024-12-08 15:35:48 +0000",
       "minecraft:zombie_villager": "2024-12-08 15:45:47 +0000"
     },
@@ -11723,6 +11728,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-25 16:55:40 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -11735,9 +11746,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 17:01:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-25 17:00:57 +0000"
     },
     "done": true
   },
@@ -11756,6 +11779,12 @@
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_ore_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 17:01:32 +0000"
     },
     "done": true
   },
@@ -11819,6 +11848,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 16:55:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-25 17:00:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
@@ -11828,6 +11869,18 @@
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-12-25 16:39:37 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2024-12-25 16:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-25 16:55:30 +0000"
     },
     "done": true
   },
@@ -11873,6 +11926,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-25 17:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-25 16:54:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -11888,6 +11953,12 @@
   "ad_astra:recipes/misc/etrionic_blast_furnace": {
     "criteria": {
       "has_etrionic_blast_furnace": "2024-12-25 16:39:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-25 17:01:32 +0000"
     },
     "done": true
   },
@@ -11909,6 +11980,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2024-12-25 16:47:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-25 17:02:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
@@ -11918,6 +12001,12 @@
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-25 16:47:48 +0000"
     },
     "done": true
   },
@@ -11933,9 +12022,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-25 17:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 16:55:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2024-12-25 17:00:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 17:01:32 +0000"
     },
     "done": true
   },
@@ -11981,9 +12094,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 16:47:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2024-12-25 16:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 16:55:29 +0000"
     },
     "done": true
   },
@@ -12008,6 +12133,12 @@
   "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2024-12-25 16:35:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-25 17:01:32 +0000"
     },
     "done": true
   },
@@ -12038,6 +12169,18 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-25 16:47:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-25 16:47:48 +0000"
     },
     "done": true
   },
@@ -12089,6 +12232,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-25 16:55:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -12107,9 +12256,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-25 17:01:32 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-25 16:42:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-25 17:00:57 +0000"
     },
     "done": true
   },
@@ -12131,6 +12292,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-25 16:47:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -12146,6 +12313,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-25 16:47:48 +0000"
     },
     "done": true
   },
@@ -12167,6 +12340,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-25 16:54:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
@@ -12176,6 +12355,12 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-25 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-25 17:01:32 +0000"
     },
     "done": true
   },
@@ -12194,6 +12379,12 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2024-12-25 16:42:38 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 17:01:32 +0000"
     },
     "done": true
   },
