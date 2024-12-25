@@ -11208,5 +11208,11 @@
     },
     "done": true
   },
+  "farlanders:kill_classic_enderman": {
+    "criteria": {
+      "kill_enderman": "2024-12-25 16:21:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
