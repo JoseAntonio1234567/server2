@@ -13175,6 +13175,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-25 23:16:34 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2024-12-25 22:32:17 +0000"
