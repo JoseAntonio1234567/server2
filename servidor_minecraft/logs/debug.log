@@ -17358,3 +17358,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 18:45:26.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 18:45:26.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 18:48:29.061] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/geforcemods/securitycraft/inventory/LensSlot (target of net/minecraft/world/inventory/Slot)
+[25Dec2024 18:50:26.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:50:26.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 18:55:26.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:55:26.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
