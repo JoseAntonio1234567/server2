@@ -3443,11 +3443,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 15:13:17 +0000",
+      "minecraft:magma_cube": "2024-12-25 20:46:16 +0000",
       "minecraft:spider": "2024-12-21 23:40:22 +0000",
+      "minecraft:piglin_brute": "2024-12-25 20:42:28 +0000",
       "minecraft:creeper": "2024-12-22 15:37:19 +0000",
       "minecraft:phantom": "2024-12-25 20:32:17 +0000",
       "minecraft:zombified_piglin": "2024-12-22 23:15:46 +0000",
       "minecraft:cave_spider": "2024-12-08 15:42:04 +0000",
+      "minecraft:piglin": "2024-12-25 20:49:52 +0000",
       "minecraft:enderman": "2024-12-22 23:52:18 +0000",
       "minecraft:zombie": "2024-12-08 15:41:11 +0000",
       "minecraft:zombie_villager": "2024-12-25 18:59:07 +0000"
@@ -8614,6 +8617,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-25 20:37:16 +0000",
       "minecraft:soul_sand_valley": "2024-12-22 16:02:02 +0000",
       "minecraft:nether_wastes": "2024-12-25 20:28:21 +0000"
     },
@@ -11219,9 +11223,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-12-25 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
     },
     "done": true
   },
@@ -11252,6 +11268,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-25 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 20:46:05 +0000"
     },
     "done": true
   },
@@ -11294,6 +11316,12 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-12-25 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-25 20:45:40 +0000"
     },
     "done": true
   },
@@ -11387,6 +11415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_blue_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-25 18:34:38 +0000"
@@ -11447,6 +11481,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 20:46:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2024-12-25 18:16:29 +0000"
@@ -11504,6 +11544,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-25 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2024-12-25 20:50:52 +0000"
     },
     "done": true
   },
@@ -11597,6 +11643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-25 20:45:41 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/essence_into_spider_eye": {
     "criteria": {
       "has_common_essence": "2024-12-25 17:26:41 +0000"
@@ -11630,6 +11682,18 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-25 20:23:44 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_ingredient": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
     },
     "done": true
   },
@@ -11730,6 +11794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/prismarine_shard": {
     "criteria": {
       "has_common_essence": "2024-12-25 17:26:41 +0000"
@@ -11760,9 +11830,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-25 20:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
     },
     "done": true
   },
@@ -11781,6 +11863,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-25 20:04:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-25 20:45:54 +0000"
     },
     "done": true
   },
@@ -11850,6 +11938,12 @@
     },
     "done": false
   },
+  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2024-12-25 20:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-25 17:11:26 +0000"
@@ -11865,6 +11959,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2024-12-25 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
     },
     "done": true
   },
@@ -12024,9 +12124,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-25 20:46:05 +0000"
+    },
+    "done": true
+  },
   "mobdropsrecipes_overworld:recipes/misc/ender_pearl": {
     "criteria": {
       "has_common_essence": "2024-12-25 17:26:41 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/basalt_slab": {
+    "criteria": {
+      "has_basalt": "2024-12-25 20:48:59 +0000"
     },
     "done": true
   },
@@ -12036,9 +12148,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-25 20:48:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blue_lens": {
     "criteria": {
       "has_glass_pane": "2024-12-25 18:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
     },
     "done": true
   },
@@ -12090,9 +12214,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2024-12-25 20:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-25 20:45:38 +0000"
     },
     "done": true
   },
@@ -12174,6 +12310,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-25 18:16:29 +0000"
@@ -12222,6 +12364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-25 20:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2024-12-25 17:26:41 +0000"
@@ -12243,6 +12391,12 @@
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2024-12-25 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-25 20:46:11 +0000"
     },
     "done": true
   },
@@ -12282,6 +12436,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-25 20:45:40 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-25 17:49:07 +0000"
@@ -12291,6 +12457,24 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-25 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/building_blocks/large_brick_chimney": {
+    "criteria": {
+      "has_item": "2024-12-25 20:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 20:46:05 +0000"
     },
     "done": true
   },
@@ -12309,6 +12493,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-25 17:11:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-25 20:45:48 +0000"
     },
     "done": true
   },
@@ -12432,6 +12622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-25 20:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-25 18:39:53 +0000"
@@ -12456,6 +12652,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-25 20:38:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-25 17:11:40 +0000"
@@ -12465,6 +12667,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-12-25 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-25 20:46:26 +0000"
     },
     "done": true
   },

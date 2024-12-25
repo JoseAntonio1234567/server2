@@ -2357,3 +2357,34 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 20:41:02.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 burned to death
 [25Dec2024 20:41:02.695] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [25Dec2024 20:41:11.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[25Dec2024 20:41:29.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3067ms or 61 ticks behind
+[25Dec2024 20:41:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:42:10.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:42:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Piglin Brute
+[25Dec2024 20:42:10.539] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[25Dec2024 20:42:27.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 20:42:27.106] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 20:43:12.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin
+[25Dec2024 20:43:12.515] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 20:43:46.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Piglin Brute
+[25Dec2024 20:43:46.273] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[25Dec2024 20:44:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:44:46.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:44:59.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6749, y=111, z=-647} BlockPos{x=6748, y=110, z=-648}
+[25Dec2024 20:45:26.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Piglin Brute
+[25Dec2024 20:45:26.189] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[25Dec2024 20:45:29.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Piglin Brute
+[25Dec2024 20:45:29.269] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[25Dec2024 20:45:33.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[25Dec2024 20:45:33.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -9.55225472499933,2.9275721963195593,-1.2984815154087528
+[25Dec2024 20:45:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [War Pigs]
+[25Dec2024 20:45:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Cover Me with Diamonds]
+[25Dec2024 20:45:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [It Belongs in a Museum]
+[25Dec2024 20:46:05.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Hidden in the Depths]
+[25Dec2024 20:46:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[25Dec2024 20:46:46.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:46:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:46:56.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo tried to swim in lava
+[25Dec2024 20:46:56.151] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[25Dec2024 20:47:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[25Dec2024 20:48:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
