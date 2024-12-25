@@ -9054,6 +9054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 23:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2024-12-25 23:09:31 +0000"
@@ -9277,9 +9283,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 23:38:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_table": {
     "criteria": {
       "has_cherry_table": "2024-12-25 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_iron_block_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 23:38:57 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-25 23:38:57 +0000"
     },
     "done": true
   },
@@ -9448,6 +9472,12 @@
   "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-25 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 23:38:57 +0000"
     },
     "done": true
   },
