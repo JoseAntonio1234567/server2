@@ -2107,3 +2107,4 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [25Dec2024 16:20:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [25Dec2024 16:21:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [This is the End]
 [25Dec2024 16:21:40.017] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[25Dec2024 16:31:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> ensamblador de vagoneta
