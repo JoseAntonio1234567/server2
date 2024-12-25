@@ -7882,6 +7882,12 @@
     },
     "done": true
   },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2024-12-25 20:07:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2024-12-25 19:52:17 +0000"
@@ -8199,6 +8205,12 @@
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2024-12-25 19:52:17 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-12-25 20:05:51 +0000"
     },
     "done": true
   },
