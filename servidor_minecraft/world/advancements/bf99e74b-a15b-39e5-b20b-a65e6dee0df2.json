@@ -8103,6 +8103,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-25 21:34:10 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-25 19:57:16 +0000"
@@ -8214,6 +8220,12 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-25 20:54:49 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-12-25 21:34:02 +0000"
     },
     "done": true
   },
@@ -8467,6 +8479,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-25 19:52:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-25 21:34:02 +0000"
     },
     "done": true
   },
@@ -8834,6 +8852,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-25 20:40:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-25 21:34:02 +0000"
     },
     "done": true
   },
