@@ -12946,6 +12946,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-12-25 21:13:40 +0000"
@@ -12958,9 +12964,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_gloves": "2024-12-25 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13000,6 +13018,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2024-12-25 21:13:40 +0000"
@@ -13009,6 +13051,18 @@
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
     },
     "done": true
   },
@@ -13039,6 +13093,24 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-25 20:57:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13078,6 +13150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
+    },
+    "done": true
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2024-12-25 21:28:54 +0000"
@@ -13096,9 +13174,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13126,6 +13216,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2024-12-25 21:13:40 +0000"
@@ -13135,6 +13231,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13150,9 +13252,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-25 20:55:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13162,9 +13288,45 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13180,9 +13342,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2024-12-25 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
     },
     "done": true
   },
@@ -13195,6 +13387,12 @@
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2024-12-25 20:22:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13228,9 +13426,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2024-12-25 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13243,6 +13465,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-25 21:54:37 +0000"
     },
     "done": true
   },
@@ -13264,9 +13492,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2024-12-25 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
@@ -13279,6 +13531,18 @@
   "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
       "has_rose_quartz": "2024-12-25 21:28:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2024-12-25 21:57:34 +0000"
     },
     "done": true
   },
