@@ -13592,6 +13592,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
+    "criteria": {
+      "has_redstone_block": "2024-12-26 00:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-26 00:07:36 +0000"
@@ -13649,6 +13655,12 @@
   "ad_astra:recipes/misc/steel_cable": {
     "criteria": {
       "has_steel_cable": "2024-12-25 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-26 00:15:10 +0000"
     },
     "done": true
   },
@@ -13736,6 +13748,12 @@
     },
     "done": true
   },
+  "super_ore_block:recipes/building_blocks/super_redstone_block_from_redstone_block": {
+    "criteria": {
+      "has_redstone_block": "2024-12-26 00:15:10 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2024-12-25 22:42:55 +0000"
@@ -13763,6 +13781,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-26 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-26 00:15:10 +0000"
     },
     "done": true
   },
@@ -13991,6 +14015,12 @@
   "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_3_rocket_from_nasa_workbench": {
     "criteria": {
       "has_item": "2024-12-25 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2024-12-26 00:13:05 +0000"
     },
     "done": true
   },

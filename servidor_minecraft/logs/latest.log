@@ -6,3 +6,23 @@
 [26Dec2024 00:02:42.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [26Dec2024 00:02:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
 [26Dec2024 00:03:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:10:56.120] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f69bd61[id=<null>,name=DeferentCurve07,properties={},legacy=false] (/127.191.128.44:47709) lost connection: Disconnected
+[26Dec2024 00:13:05.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Astronaut]
+[26Dec2024 00:14:40.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:14:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[26Dec2024 00:17:22.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:33971] logged in with entity id 32587 at (7.5, 72.0, 5.5)
+[26Dec2024 00:17:22.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[26Dec2024 00:17:22.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[26Dec2024 00:17:22.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[26Dec2024 00:17:22.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[26Dec2024 00:17:22.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[26Dec2024 00:17:22.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[26Dec2024 00:17:22.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[26Dec2024 00:17:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[26Dec2024 00:17:23.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Christmas]
+[26Dec2024 00:17:23.795] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[26Dec2024 00:17:28.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3489ms or 69 ticks behind
+[26Dec2024 00:18:58.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[26Dec2024 00:19:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Made DeferentCurve07 a server operator]
+[26Dec2024 00:19:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
+[26Dec2024 00:19:17.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
