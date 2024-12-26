@@ -13251,6 +13251,12 @@
     },
     "done": true
   },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2024-12-26 01:46:50 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/upgrade_template": {
     "criteria": {
       "has_chest": "2024-12-26 00:41:34 +0000"

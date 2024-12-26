@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-26 01:46:55 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2024-12-26 00:22:30 +0000"
@@ -822,6 +828,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-26 01:40:18 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/redwood": {
     "criteria": {
       "has_acacia": "2024-12-26 00:17:23 +0000"
@@ -885,6 +897,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:29 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-12-26 01:46:58 +0000"
     },
     "done": true
   },
@@ -1866,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-26 01:40:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 01:18:42 +0000"
@@ -2007,6 +2031,12 @@
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-26 00:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-26 01:46:11 +0000"
     },
     "done": true
   },
@@ -2547,6 +2577,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2024-12-26 01:25:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 01:39:29 +0000"
     },
     "done": true
   },
@@ -3591,6 +3627,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 01:39:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 01:27:43 +0000"
@@ -4054,6 +4096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-26 01:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-26 00:44:57 +0000"
@@ -4259,7 +4307,9 @@
       "minecraft:skeleton": "2024-12-26 01:17:38 +0000",
       "minecraft:spider": "2024-12-26 00:42:16 +0000",
       "minecraft:creeper": "2024-12-26 01:21:10 +0000",
-      "minecraft:zombie": "2024-12-26 01:26:56 +0000"
+      "minecraft:wither_skeleton": "2024-12-26 01:44:28 +0000",
+      "minecraft:zombie": "2024-12-26 01:26:56 +0000",
+      "minecraft:zombie_villager": "2024-12-26 01:48:33 +0000"
     },
     "done": false
   },
@@ -4713,6 +4763,12 @@
     },
     "done": true
   },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-12-26 01:46:47 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-26 01:19:08 +0000"
@@ -4950,6 +5006,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2024-12-26 00:24:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-26 01:46:16 +0000"
     },
     "done": true
   },
@@ -5658,6 +5720,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-26 01:46:11 +0000"
     },
     "done": true
   },

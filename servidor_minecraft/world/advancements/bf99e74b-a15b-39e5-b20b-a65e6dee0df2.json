@@ -2213,6 +2213,7 @@
       "minecraft:spider": "2024-12-21 23:00:55 +0000",
       "minecraft:piglin_brute": "2024-12-25 17:02:17 +0000",
       "minecraft:creeper": "2024-12-21 23:28:45 +0000",
+      "minecraft:wither_skeleton": "2024-12-26 01:45:44 +0000",
       "minecraft:piglin": "2024-12-25 17:26:30 +0000",
       "minecraft:enderman": "2024-12-26 01:21:33 +0000",
       "minecraft:zombie": "2024-12-21 23:36:10 +0000",
@@ -9699,6 +9700,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-26 01:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-26 01:00:40 +0000"
@@ -9726,6 +9733,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-26 01:25:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-26 01:43:21 +0000"
     },
     "done": true
   },
@@ -9804,6 +9817,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2024-12-26 01:29:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-26 01:41:47 +0000"
     },
     "done": true
   },
@@ -9903,6 +9922,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-26 01:45:20 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/bomb": {
     "criteria": {
       "has_item": "2024-12-26 01:28:48 +0000"
@@ -9942,6 +9967,12 @@
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2024-12-26 01:25:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-26 01:38:52 +0000"
     },
     "done": true
   },
@@ -10029,6 +10060,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-26 01:46:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_rice": {
     "criteria": {
       "has_chicken": "2024-12-26 01:25:30 +0000"
@@ -10044,6 +10081,18 @@
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2024-12-26 01:00:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-26 01:46:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-26 01:45:11 +0000"
     },
     "done": true
   },
@@ -10074,6 +10123,18 @@
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-12-26 01:25:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-12-26 01:45:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-26 01:46:30 +0000"
     },
     "done": true
   },

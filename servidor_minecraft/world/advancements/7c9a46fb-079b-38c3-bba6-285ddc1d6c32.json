@@ -14023,6 +14023,12 @@
     },
     "done": true
   },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2024-12-26 01:42:32 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/vent": {
     "criteria": {
       "has_vent": "2024-12-25 23:27:09 +0000"
