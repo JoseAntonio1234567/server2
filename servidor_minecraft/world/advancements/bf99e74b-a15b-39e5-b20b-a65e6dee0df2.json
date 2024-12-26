@@ -10171,6 +10171,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_all": {
     "criteria": {
       "cauliflower_seed": "2024-12-26 20:58:49 +0000"
@@ -10183,11 +10189,83 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-26 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_forest": {
     "criteria": {
       "cauliflower_seed": "2024-12-26 20:58:49 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-26 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2024-12-26 21:21:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
