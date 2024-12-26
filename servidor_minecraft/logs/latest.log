@@ -213,3 +213,48 @@
 [26Dec2024 00:57:16.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
 [26Dec2024 00:57:16.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ocean Cleanup]
 [26Dec2024 00:58:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 01:03:14.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 13000]
+[26Dec2024 01:03:20.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 6000]
+[26Dec2024 01:03:26.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 13000]
+[26Dec2024 01:04:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[26Dec2024 01:08:29.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[26Dec2024 01:09:07.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/transport/BeltInventory$Ending
+[26Dec2024 01:12:02.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[26Dec2024 01:12:05.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[26Dec2024 01:12:52.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[26Dec2024 01:12:58.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 9.363141852368244,2.0,-3.671187920834086
+[26Dec2024 01:13:03.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 3.4632366747819106,-2.1416851727245216,-9.312693508926714
+[26Dec2024 01:13:09.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[26Dec2024 01:13:28.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[26Dec2024 01:13:28.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 0.0,-10.188594643186825,0.0
+[26Dec2024 01:13:45.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[26Dec2024 01:14:06.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[26Dec2024 01:14:27.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[26Dec2024 01:14:35.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[26Dec2024 01:14:59.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16132ms or 322 ticks behind
+[26Dec2024 01:15:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [We do a little trolling...]
+[26Dec2024 01:15:23.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 9.950946439659674,-0.2468000194787976,-1.341023935066005
+[26Dec2024 01:15:26.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 9.723824175516711,2.1661092609382138,-1.5230032839486967
+[26Dec2024 01:15:28.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14481ms or 289 ticks behind
+[26Dec2024 01:15:30.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 9.35451278918572,1.2987031463477763,-3.503656260373873
+[26Dec2024 01:15:33.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 10.345840242030135,-0.8322033533667508,-1.5601140564890557
+[26Dec2024 01:15:44.595] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=7303, y=19, z=-602}
+[26Dec2024 01:15:53.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10199ms or 203 ticks behind
+[26Dec2024 01:16:03.004] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=7320, y=-33, z=-610}
+[26Dec2024 01:16:03.007] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=7319, y=-33, z=-610}
+[26Dec2024 01:16:10.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Dec2024 01:16:13.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 9.255701052038603,-3.796735600668711,0.958673411608288
+[26Dec2024 01:16:34.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9380ms or 187 ticks behind
+[26Dec2024 01:16:48.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 01:16:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to myser444]
+[26Dec2024 01:16:56.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6137ms or 122 ticks behind
+[26Dec2024 01:17:11.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
+[26Dec2024 01:17:11.342] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[26Dec2024 01:17:15.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[26Dec2024 01:17:19.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -10.187242584857813,-0.2522033402537289,1.4189346999937698
+[26Dec2024 01:18:02.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was shot by Skeleton
+[26Dec2024 01:18:02.523] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[26Dec2024 01:18:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has reached the goal [Here They Come]
+[26Dec2024 01:21:05.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 01:21:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Enderman
+[26Dec2024 01:21:19.312] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/flowering_oak_hedge": {
     "criteria": {
       "has_birch": "2024-12-26 00:17:23 +0000"
@@ -26,6 +32,18 @@
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -77,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2024-12-26 00:24:35 +0000"
@@ -86,6 +110,12 @@
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-26 00:42:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -176,6 +206,12 @@
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2024-12-26 00:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -347,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/oak_log_slab": {
     "criteria": {
       "has_oak_log": "2024-12-26 00:24:35 +0000"
@@ -509,6 +551,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-26 00:42:15 +0000"
@@ -663,6 +711,18 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-26 00:44:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
@@ -834,6 +894,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-26 00:23:48 +0000"
@@ -861,6 +927,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-26 00:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
@@ -897,6 +969,12 @@
   "cfm:recipes/decorations/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-26 00:47:30 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -1047,6 +1125,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-12-26 00:17:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -1203,6 +1287,12 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-26 00:50:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-26 01:15:14 +0000"
     },
     "done": true
   },
@@ -1488,6 +1578,24 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-26 00:48:33 +0000"
@@ -1578,6 +1686,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_grill": {
     "criteria": {
       "has_iron": "2024-12-26 00:47:30 +0000"
@@ -1632,6 +1746,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2024-12-26 00:17:23 +0000"
@@ -1647,6 +1767,18 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-26 00:50:35 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -1731,6 +1863,18 @@
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-26 00:24:35 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -1824,9 +1968,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2024-12-26 00:17:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -1848,6 +2004,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-12-26 00:32:48 +0000"
@@ -1863,6 +2025,12 @@
   "minecraft:recipes/decorations/dirt_washed_pink.json": {
     "criteria": {
       "has_dirt": "2024-12-26 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -1956,6 +2124,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2024-12-26 01:06:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-26 00:21:56 +0000"
@@ -2004,6 +2178,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:30 +0000"
@@ -2019,6 +2199,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-26 00:50:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -2088,6 +2274,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 00:47:30 +0000"
@@ -2109,6 +2301,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 00:47:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -2202,6 +2400,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2024-12-26 01:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-26 00:43:05 +0000"
@@ -2241,6 +2445,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-12-26 00:21:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -2424,6 +2634,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-26 01:06:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-12-26 00:50:42 +0000"
@@ -2505,6 +2721,12 @@
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-26 00:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -2590,6 +2812,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-26 00:21:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -2984,6 +3212,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-26 00:28:13 +0000"
@@ -3018,6 +3252,12 @@
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2024-12-26 00:35:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -3112,6 +3352,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-26 00:47:30 +0000"
@@ -3157,6 +3403,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-12-26 00:21:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -3223,6 +3475,12 @@
   "mcwfencesbop:recipes/mahogany": {
     "criteria": {
       "has_acacia": "2024-12-26 00:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -3373,6 +3631,12 @@
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2024-12-26 00:47:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -3741,6 +4005,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
       "has_iron": "2024-12-26 00:47:30 +0000"
@@ -3813,9 +4083,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-26 00:24:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-12-26 01:01:03 +0000"
     },
     "done": true
   },
@@ -3886,6 +4168,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:29 +0000"
@@ -3907,6 +4195,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-26 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
@@ -4090,6 +4384,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2024-12-26 00:24:35 +0000"
@@ -4186,6 +4486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:30 +0000"
@@ -4201,6 +4507,12 @@
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-26 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
@@ -4324,6 +4636,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2024-12-26 00:17:23 +0000"
@@ -4345,6 +4663,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
@@ -4381,6 +4705,12 @@
   "chiselsandbits:recipes/tools/modification_table": {
     "criteria": {
       "has_p": "2024-12-26 00:22:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
@@ -4438,6 +4768,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-12-26 00:23:48 +0000"
@@ -4476,6 +4818,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-26 01:16:14 +0000",
       "mediterranean_forest": "2024-12-26 00:20:53 +0000",
       "spider_nest": "2024-12-26 00:21:03 +0000"
     },
@@ -4613,6 +4956,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2024-12-26 00:17:23 +0000"
@@ -4715,6 +5064,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-26 00:23:48 +0000"
@@ -4763,6 +5118,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-26 01:01:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_crate": {
     "criteria": {
       "has_planks": "2024-12-26 00:22:30 +0000"
@@ -4796,6 +5163,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-26 00:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -5004,6 +5377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2024-12-26 00:47:30 +0000"
@@ -5073,6 +5452,12 @@
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-26 00:27:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
     },
     "done": true
   },
@@ -5148,6 +5533,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_sofa": {
     "criteria": {
       "has_wool": "2024-12-26 00:52:09 +0000"
@@ -5220,6 +5611,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-26 01:04:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 00:47:30 +0000"
@@ -5264,6 +5661,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-12-26 01:15:10 +0000",
       "minecraft:river": "2024-12-26 00:31:55 +0000",
       "minecraft:snowy_plains": "2024-12-26 00:17:25 +0000",
       "minecraft:ice_spikes": "2024-12-26 00:18:57 +0000",
@@ -5312,6 +5710,12 @@
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2024-12-26 00:35:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-12-26 01:16:26 +0000"
     },
     "done": true
   },
