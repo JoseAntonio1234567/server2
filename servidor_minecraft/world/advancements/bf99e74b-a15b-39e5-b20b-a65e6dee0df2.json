@@ -10170,5 +10170,23 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "cauliflower_seed": "2024-12-26 20:58:49 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-26 20:58:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "cauliflower_seed": "2024-12-26 20:58:49 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
