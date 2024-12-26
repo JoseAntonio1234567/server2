@@ -821,3 +821,6 @@
 [26Dec2024 02:07:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
 [26Dec2024 02:09:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was incinerated by an Encased Fan
 [26Dec2024 02:09:56.041] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[26Dec2024 02:34:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[26Dec2024 02:40:07.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[26Dec2024 02:40:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
