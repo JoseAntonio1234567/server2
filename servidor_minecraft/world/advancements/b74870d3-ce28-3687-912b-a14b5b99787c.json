@@ -13263,6 +13263,12 @@
     },
     "done": true
   },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-12-26 02:05:44 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/controller_slave": {
     "criteria": {
       "has_chest": "2024-12-26 00:41:34 +0000"

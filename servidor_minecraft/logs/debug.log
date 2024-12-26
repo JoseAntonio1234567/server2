@@ -21064,3 +21064,17 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 01:59:58.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [26Dec2024 01:59:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
 [26Dec2024 02:01:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Gave 1 [Creative Motor] to carloselpillo]
+[26Dec2024 02:04:53.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:04:53.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:07:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[26Dec2024 02:09:53.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:09:54.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:09:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was incinerated by an Encased Fan
+[26Dec2024 02:09:56.035] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6609, y:97, z:-715, dim:minecraft:overworld]
+[26Dec2024 02:09:56.041] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[26Dec2024 02:09:58.622] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[26Dec2024 02:09:59.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[26Dec2024 02:09:59.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[26Dec2024 02:10:01.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[26Dec2024 02:10:03.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[26Dec2024 02:13:30.847] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=6606, y=97, z=-715}) doesn't have enough leaves around top most log
