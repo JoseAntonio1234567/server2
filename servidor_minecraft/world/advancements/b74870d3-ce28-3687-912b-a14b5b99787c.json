@@ -803,8 +803,10 @@
       "minecraft:lukewarm_ocean": "2024-12-24 14:57:32 +0000",
       "minecraft:snowy_plains": "2024-12-08 15:00:44 +0000",
       "minecraft:dripstone_caves": "2024-12-08 15:47:36 +0000",
+      "minecraft:ice_spikes": "2024-12-26 00:19:32 +0000",
       "minecraft:flower_forest": "2024-12-24 15:04:53 +0000",
       "minecraft:deep_dark": "2024-12-08 15:12:35 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-26 00:19:11 +0000",
       "minecraft:savanna": "2024-12-21 22:49:08 +0000"
     },
     "done": false
@@ -824,7 +826,8 @@
       "mediterranean_forest": "2024-12-08 15:05:16 +0000",
       "spider_nest": "2024-12-08 15:09:10 +0000",
       "dune_beach": "2024-12-21 23:45:23 +0000",
-      "lavender_field": "2024-12-21 23:45:24 +0000"
+      "lavender_field": "2024-12-21 23:45:24 +0000",
+      "tundra": "2024-12-26 00:20:03 +0000"
     },
     "done": false
   },

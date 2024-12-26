@@ -26,3 +26,34 @@
 [26Dec2024 00:19:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Made DeferentCurve07 a server operator]
 [26Dec2024 00:19:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to DeferentCurve07]
 [26Dec2024 00:19:17.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
+[26Dec2024 00:20:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to joselete123]
+[26Dec2024 00:21:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:21:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[26Dec2024 00:21:33.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! 7.141495185389871,0.7570024632478081,-7.43220352504178
+[26Dec2024 00:21:34.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was shot by Mutant Skeleton
+[26Dec2024 00:21:34.189] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[26Dec2024 00:21:40.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[26Dec2024 00:21:45.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 2.760213477790117,0.3015347236627832,9.677832068606588
+[26Dec2024 00:21:53.518] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=296, y=-9, z=-47}
+[26Dec2024 00:21:59.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[26Dec2024 00:21:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Carbon Footprint]
+[26Dec2024 00:22:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to joselete123]
+[26Dec2024 00:22:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:22:19.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was pummeled by Mutant Skeleton
+[26Dec2024 00:22:19.631] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[26Dec2024 00:22:44.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to joselete123]
+[26Dec2024 00:22:58.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was slain by carloselpillo
+[26Dec2024 00:22:58.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Your First Grave]
+[26Dec2024 00:22:58.930] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[26Dec2024 00:23:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [The Most Useful Key]
+[26Dec2024 00:23:17.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Knowledge of Death]
+[26Dec2024 00:23:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has reached the goal [A Fast Comeback]
+[26Dec2024 00:23:25.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[26Dec2024 00:23:29.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 9.942923961600172,-0.24918707874468282,2.2805464067004095
+[26Dec2024 00:23:44.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33557, l='ServerLevel[world]', x=249.49, y=67.00, z=75.51] died, message: 'Fisherman froze to death'
+[26Dec2024 00:24:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Teleported DeferentCurve07 to carloselpillo]
+[26Dec2024 00:26:10.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[26Dec2024 00:26:19.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:27:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Stone Age]
+[26Dec2024 00:28:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Getting an Upgrade]
+[26Dec2024 00:29:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
