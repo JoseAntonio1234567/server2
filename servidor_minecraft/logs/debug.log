@@ -17855,3 +17855,137 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [26Dec2024 21:35:22.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
 [26Dec2024 21:35:23.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
 [26Dec2024 21:35:32.760] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/geforcemods/securitycraft/inventory/InsertOnlyInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[26Dec2024 21:36:22.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[26Dec2024 21:36:22.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[26Dec2024 21:36:56.795] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 66 messages to dispatch.
+[26Dec2024 21:36:56.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'portb.biggerstacks.net.ClientboundRulesHandshakePacket' to 'biggerstacks:rules' sequence 0
+[26Dec2024 21:36:56.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[26Dec2024 21:36:56.858] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[26Dec2024 21:36:56.858] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Dec2024 21:36:56.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[26Dec2024 21:36:56.960] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[26Dec2024 21:36:57.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61ca4569[id=<null>,name=marquitosTPMS,properties={},legacy=false] (/127.9.149.75:36821) lost connection: Disconnected
+[26Dec2024 21:37:48.556] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[26Dec2024 21:37:48.556] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[26Dec2024 21:37:49.776] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 66 messages to dispatch.
+[26Dec2024 21:37:49.812] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'portb.biggerstacks.net.ClientboundRulesHandshakePacket' to 'biggerstacks:rules' sequence 0
+[26Dec2024 21:37:49.859] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[26Dec2024 21:37:49.859] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Dec2024 21:37:49.861] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[26Dec2024 21:37:49.910] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[26Dec2024 21:37:49.960] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[26Dec2024 21:37:50.014] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15e2ce98[id=<null>,name=marquitosTPMS,properties={},legacy=false] (/127.9.149.75:52763) lost connection: Disconnected
+[26Dec2024 21:38:18.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[26Dec2024 21:38:33.368] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[26Dec2024 21:38:36.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:38:36.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:39:58.673] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 66 messages to dispatch.
+[26Dec2024 21:39:58.713] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'portb.biggerstacks.net.ClientboundRulesHandshakePacket' to 'biggerstacks:rules' sequence 0
+[26Dec2024 21:39:58.760] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[26Dec2024 21:39:58.761] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[26Dec2024 21:39:58.762] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Dec2024 21:39:58.811] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[26Dec2024 21:39:58.860] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[26Dec2024 21:39:58.917] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@329c87c1[id=<null>,name=marquitosTPMS,properties={},legacy=false] (/127.9.149.75:53881) lost connection: Disconnected
+[26Dec2024 21:43:36.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:43:36.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:45:04.164] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[26Dec2024 21:45:04.206] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[26Dec2024 21:45:47.805] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.805] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.805] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bagus_lib:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blue_skies:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vanillaplustools:net-channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enderpack:messages' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jearchaeology:jea' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chipped:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra_giselle_addon:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_recipes:create_recipes' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tumbleweed:net' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'buildersaddition:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'biggerstacks:rules' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chiselsandbits:chiselsandbits' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kleeslabs:network' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanism:mekanism' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'betterarcheology:messages' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tradingpost:1' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blocksyouneed_luna:blocksyouneed_luna' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.808] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cookingforblockheads:network' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanismgenerators:mekanismgenerators' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'adlods:main' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forgeendertech:main' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'proxima_plus:proxima_plus' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'grapplemod:channel' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'adchimneys:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Vanilla acceptance test: REJECTED
+[26Dec2024 21:45:47.809] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [supplementaries:channel,alexscaves:main_channel,bagus_lib:channel,structure_gel:main,blue_skies:main,vanillaplustools:net-channel,cfm:network,sophisticatedbackpacks:channel,jearchaeology:jea,chipped:main,nitrogen_internals:main,framework:play,ad_astra_giselle_addon:main,create_recipes:create_recipes,cataclysm:main_channel,lionfishapi:main_channel,tumbleweed:net,forge:tier_sorting,buildersaddition:main,biggerstacks:rules,alexsmobs:main_channel,chiselsandbits:chiselsandbits,kleeslabs:network,creativecore:main,mekanism:mekanism,sereneseasons:main,lootr:main_network_channel,blueprint:net,mutantmonsters:1,create:main,moonlight:channel,tradingpost:1,kiwi:main,blocksyouneed_luna:blocksyouneed_luna,comforts:main,cookingforblockheads:network,aether:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,ad_astra:main,amendments:channel,curios:main,polymorph:main,framework:handshake,proxima_plus:proxima_plus,supermartijn642configlib:sync_configs,tombstone:tombstone_channel,glitchcore:config_sync,sophisticatedcore:channel,patchouli:main,adchimneys:main,ironchest:network,zeta:main,elevatorid:main_channel,twilightforest:channel,waystones:network,refinedstorage:main_channel] rejected vanilla connections
+[26Dec2024 21:45:47.810] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.191.128.44:46701] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[26Dec2024 21:45:52.293] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/legacy/blue_skies/client/gui/menu/ArcSlot (target of net/minecraft/world/inventory/Slot)

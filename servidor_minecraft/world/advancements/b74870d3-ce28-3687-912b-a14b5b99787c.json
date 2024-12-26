@@ -13366,15 +13366,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/filter_clear": {
-    "criteria": {
-      "has_item": "2024-12-26 03:10:42 +0000"
-    },
-    "done": true
-  },
   "create:compacting": {
     "criteria": {
       "0": "2024-12-26 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2024-12-26 03:10:42 +0000"
     },
     "done": true
   },
