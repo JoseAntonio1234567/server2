@@ -797,6 +797,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-26 00:54:50 +0000",
       "minecraft:frozen_river": "2024-12-08 14:45:10 +0000",
       "minecraft:savanna_plateau": "2024-12-08 14:47:59 +0000",
       "minecraft:beach": "2024-12-21 23:06:49 +0000",
@@ -14115,6 +14116,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-25 22:25:06 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2024-12-26 00:57:16 +0000"
     },
     "done": true
   },
