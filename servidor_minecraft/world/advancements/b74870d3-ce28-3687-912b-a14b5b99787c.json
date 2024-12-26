@@ -13378,5 +13378,83 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-26 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_sword": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/tools/super_coal_hoe": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2024-12-26 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_boots": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/tools/super_coal_shovel": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
+    "criteria": {
+      "has_coal_block": "2024-12-26 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_chestplate": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/misc/coal_block_from_super_coal_block": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_leggings": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/tools/super_coal_pickaxe": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/tools/super_coal_axe": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_helmet": {
+    "criteria": {
+      "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
