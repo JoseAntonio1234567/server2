@@ -13390,6 +13390,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-26 22:45:39 +0000"
+    },
+    "done": true
+  },
   "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_sword": {
     "criteria": {
       "has_super_coal_block": "2024-12-26 22:03:15 +0000"
