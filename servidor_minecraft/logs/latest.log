@@ -57,3 +57,133 @@
 [26Dec2024 00:27:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Stone Age]
 [26Dec2024 00:28:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Getting an Upgrade]
 [26Dec2024 00:29:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:32:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement ['X' Marks the Spot]
+[26Dec2024 00:33:39.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Your First Receptacle]
+[26Dec2024 00:33:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Where Is The Stone Pen?]
+[26Dec2024 00:33:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has reached the goal [Treasure from the Past]
+[26Dec2024 00:33:39.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has reached the goal [Gift Delivery]
+[26Dec2024 00:34:15.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[26Dec2024 00:34:28.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -7.446350793135025,-1.1221969090842236,6.605113735681812
+[26Dec2024 00:34:36.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
+[26Dec2024 00:34:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[26Dec2024 00:35:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:36:06.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[26Dec2024 00:36:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[26Dec2024 00:36:49.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/funnel/FunnelBlockEntity$Mode
+[26Dec2024 00:38:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 00:38:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <carloselpillo> :monka:
+[26Dec2024 00:38:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> :feelsbadman::feelsbadman::feelsbadman::feelsbadman:
+[26Dec2024 00:38:58.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> :blobcatcaged:
+[26Dec2024 00:39:37.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! -8.427926133954315,0.8800391385729398,5.584832447377039
+[26Dec2024 00:41:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Cobweb Entanglement]
+[26Dec2024 00:42:00.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 9.797826066133894,-0.5800000131130219,-3.3126623830760025
+[26Dec2024 00:42:00.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[26Dec2024 00:42:07.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 8.780629287026386,1.8863000707369793E-4,5.098430440064504
+[26Dec2024 00:42:07.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.043739061463384,1.8938306629934232E-4,5.379310646725401
+[26Dec2024 00:42:07.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.295912481010419,1.8942563173141025E-4,5.669028585189977
+[26Dec2024 00:42:07.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.537131877960746,1.889318342733759E-4,5.967143895920827
+[26Dec2024 00:42:07.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.767480818493823,1.880762813613046E-4,6.273187593557452
+[26Dec2024 00:42:07.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.987127086562396,1.8701961106870613E-4,6.5866772229573485
+[26Dec2024 00:42:07.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.196309966856461,1.8589880389185964E-4,6.907127627433624
+[26Dec2024 00:42:07.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.395320659707977,1.8482185771517834E-4,7.234061437380831
+[26Dec2024 00:42:07.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.58449505644785,1.838661721009771E-4,7.567013942831977
+[26Dec2024 00:42:07.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.764199417843884,1.8307984714027725E-4,7.905538603797453
+[26Dec2024 00:42:07.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.934824561813912,1.8248506163587308E-4,8.2492092454045
+[26Dec2024 00:42:08.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.096776662143384,1.820827336374009E-4,8.597622324095369
+[26Dec2024 00:42:11.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.340454710919403,1.9090933278675948E-8,4.364893719971718
+[26Dec2024 00:42:11.390] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jaquadro/minecraft/storagedrawers/api/storage/attribute/LockAttribute
+[26Dec2024 00:42:11.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.726728569903571,1.92674249888114E-8,4.392299422066799
+[26Dec2024 00:42:14.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.979058069232451,-4.341416115494212E-12,-1.7501016404474399
+[26Dec2024 00:42:14.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.337365731749742,-4.362732397567015E-12,-1.9003913231912293
+[26Dec2024 00:42:14.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.694786963784281,-4.376943252282217E-12,-2.0551171974275633
+[26Dec2024 00:42:14.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.051320464996934,-4.391154106997419E-12,-2.2139962504794255
+[26Dec2024 00:42:14.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.406971904714737,-4.39825953435502E-12,-2.3767600208977058
+[26Dec2024 00:42:14.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.761755314852962,-4.39825953435502E-12,-2.5431499097861945
+[26Dec2024 00:42:14.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.11568860287207,-4.39825953435502E-12,-2.7129229429093584
+[26Dec2024 00:42:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Monster Hunter]
+[26Dec2024 00:42:18.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 9.859853658980683,0.0,-3.1640618993945964
+[26Dec2024 00:42:18.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.247046439434598,0.0,-3.262041695982589
+[26Dec2024 00:42:18.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.633993266775178,0.0,-3.3611689452578446
+[26Dec2024 00:42:18.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.020647635428759,0.0,-3.461575808577294
+[26Dec2024 00:42:18.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.40697377005472,0.0,-3.5633550442309456
+[26Dec2024 00:42:18.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.792944896868903,0.0,-3.6665677400948766
+[26Dec2024 00:42:18.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.178542675040262,0.0,-3.7712465784624385
+[26Dec2024 00:42:18.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.56375437526549,0.0,-3.8774060843427947
+[26Dec2024 00:42:18.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.948572501156377,0.0,-3.9850444970691967
+[26Dec2024 00:42:18.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.33299561077638,0.0,-4.094141798373954
+[26Dec2024 00:42:18.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.717025528175327,0.0,-4.204668890940582
+[26Dec2024 00:42:22.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.278268280075281,0.0,-1.4967107822686785
+[26Dec2024 00:42:22.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.675668834466705,0.0,-1.5409360025015246
+[26Dec2024 00:42:22.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.073131413278134,0.0,-1.5847128123387222
+[26Dec2024 00:42:22.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.470650957729049,0.0,-1.6280746050134383
+[26Dec2024 00:42:22.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.868222527488797,0.0,-1.6710552495976572
+[26Dec2024 00:42:22.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.265842056239308,0.0,-1.7136814126267552
+[26Dec2024 00:42:22.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.663505128059114,0.0,-1.755984725704792
+[26Dec2024 00:42:22.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.061208141150018,0.0,-1.7979898411804243
+[26Dec2024 00:42:22.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.458947853891914,0.0,-1.839718946166812
+[26Dec2024 00:42:22.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.856720972572475,0.0,-1.8811958251595797
+[26Dec2024 00:42:22.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.254524532851974,0.0,-1.9224418842041757
+[26Dec2024 00:42:22.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.65235623935314,0.0,-1.9634725721811037
+[26Dec2024 00:42:22.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 15.050213657433233,0.0,-2.0043056096423584
+[26Dec2024 00:42:26.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.258051976377828,0.0,0.1769329341728394
+[26Dec2024 00:42:26.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.646569149806965,0.0,0.2544809785107134
+[26Dec2024 00:42:26.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.035526861360268,0.0,0.33176163329898145
+[26Dec2024 00:42:26.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.424963289272455,0.0,0.4083566422595766
+[26Dec2024 00:42:26.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.814900772442343,0.0,0.48393027634273267
+[26Dec2024 00:42:26.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.205348664690973,0.0,0.5582213464290362
+[26Dec2024 00:42:26.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.596306350627856,0.0,0.6310321772469649
+[26Dec2024 00:42:26.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.987766261680008,0.0,0.7022148296202886
+[26Dec2024 00:42:26.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.379715241962003,0.0,0.7716662432727617
+[26Dec2024 00:42:26.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.77213572913115,0.0,0.8393238476571412
+[26Dec2024 00:42:26.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.165008150812355,0.0,0.9051501755260745
+[26Dec2024 00:42:26.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.558310987763434,0.0,0.969134207811237
+[26Dec2024 00:42:26.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.952021732247886,0.0,1.0312849639333024
+[26Dec2024 00:42:26.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 15.346117247652728,0.0,1.0916295310145188
+[26Dec2024 00:42:26.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 15.740574460952303,0.0,1.1502074717475068
+[26Dec2024 00:42:26.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 16.13537091514172,0.0,1.207065782629826
+[26Dec2024 00:42:26.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 16.530484431964396,0.0,1.2622619783189748
+[26Dec2024 00:42:26.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 16.925893598126095,0.0,1.3158592386231476
+[26Dec2024 00:42:26.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 17.32157777448265,0.0,1.36792585106636
+[26Dec2024 00:42:33.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17853ms or 357 ticks behind
+[26Dec2024 00:43:09.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.389694089879413,0.0,0.30330186773488776
+[26Dec2024 00:43:09.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 10.787934089881674,0.0,0.2848381130882558
+[26Dec2024 00:43:09.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.185692427921822,0.0,0.2609971855132187
+[26Dec2024 00:43:09.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.58292122477269,0.0,0.2318119780979373
+[26Dec2024 00:43:09.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 11.979581926534593,0.0,0.19736591714951146
+[26Dec2024 00:43:09.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.375643727627903,0.0,0.15777636512763138
+[26Dec2024 00:43:09.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 12.77108410353685,0.0,0.11319099559480605
+[26Dec2024 00:43:09.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.165889152443015,0.0,0.06378453206869494
+[26Dec2024 00:43:09.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.560050088001844,0.0,0.009740934179831129
+[26Dec2024 00:43:09.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 13.953565227462605,0.0,-0.04874022157696345
+[26Dec2024 00:43:09.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.346438029612727,0.0,-0.11145288356377137
+[26Dec2024 00:43:09.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 14.738676081434278,0.0,-0.1781889937306289
+[26Dec2024 00:43:09.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 15.130292059916428,0.0,-0.24873507751905777
+[26Dec2024 00:43:09.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 15.521300540846823,0.0,-0.32288397255993573
+[26Dec2024 00:43:09.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 15.911719045726386,0.0,-0.40043055691435825
+[26Dec2024 00:43:09.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 16.301566923909377,0.0,-0.48117529174135143
+[26Dec2024 00:43:09.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joselete123) moved too quickly! 16.69105277543713,0.0,-0.5642513980319563
+[26Dec2024 00:43:09.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[26Dec2024 00:43:30.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5958ms or 119 ticks behind
+[26Dec2024 00:43:50.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
+[26Dec2024 00:44:08.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[26Dec2024 00:44:25.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[26Dec2024 00:44:44.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
+[26Dec2024 00:45:04.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[26Dec2024 00:45:21.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[26Dec2024 00:45:45.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[26Dec2024 00:46:03.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
+[26Dec2024 00:46:13.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set the time to 1000]
+[26Dec2024 00:46:13.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Copper Age]
+[26Dec2024 00:46:15.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DeferentCurve07> :blobcatcaged:
+[26Dec2024 00:46:21.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[26Dec2024 00:46:38.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[26Dec2024 00:47:30.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Acquire Hardware]
+[26Dec2024 00:47:36.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Dec2024 00:47:55.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -8.706845624889866,0.49520087700592086,5.276660186008684
+[26Dec2024 00:47:58.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7470ms or 149 ticks behind
+[26Dec2024 00:48:00.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[26Dec2024 00:48:26.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[26Dec2024 00:48:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Isn't It Iron Pick]
+[26Dec2024 00:49:05.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[26Dec2024 00:49:22.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[26Dec2024 00:50:11.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind

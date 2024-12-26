@@ -807,6 +807,7 @@
       "minecraft:forest": "2024-12-22 21:41:31 +0000",
       "minecraft:ice_spikes": "2024-12-08 14:45:01 +0000",
       "minecraft:frozen_ocean": "2024-12-26 00:21:22 +0000",
+      "minecraft:ocean": "2024-12-26 00:49:11 +0000",
       "minecraft:flower_forest": "2024-12-22 21:30:53 +0000",
       "minecraft:deep_dark": "2024-12-08 15:14:29 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-08 14:44:26 +0000",
@@ -824,6 +825,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-12-22 21:36:45 +0000",
+      "shrubland": "2024-12-26 00:44:16 +0000",
       "scrubland": "2024-12-08 14:47:10 +0000",
       "erupting_inferno": "2024-12-25 17:00:23 +0000",
       "cold_desert": "2024-12-08 14:45:12 +0000",
@@ -834,6 +836,7 @@
       "mediterranean_forest": "2024-12-08 14:50:44 +0000",
       "spider_nest": "2024-12-08 15:14:27 +0000",
       "redwood_forest": "2024-12-21 23:42:45 +0000",
+      "dune_beach": "2024-12-26 00:43:44 +0000",
       "rocky_rainforest": "2024-12-25 23:04:57 +0000",
       "volcanic_plains": "2024-12-25 23:03:08 +0000",
       "lavender_field": "2024-12-08 15:37:39 +0000",
@@ -13641,6 +13644,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-26 00:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-26 00:20:56 +0000"
@@ -13857,6 +13866,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-26 00:46:13 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/launch_pad": {
     "criteria": {
       "has_launch_pad": "2024-12-25 23:27:09 +0000"
@@ -13902,6 +13917,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-26 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-26 00:46:17 +0000"
     },
     "done": true
   },
@@ -14025,6 +14046,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-26 00:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2024-12-26 00:25:04 +0000"
@@ -14094,6 +14121,12 @@
   "ad_astra:recipes/misc/encased_steel_block": {
     "criteria": {
       "has_encased_steel_block": "2024-12-25 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-12-26 00:46:17 +0000"
     },
     "done": true
   },
