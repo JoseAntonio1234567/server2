@@ -13269,6 +13269,12 @@
     },
     "done": true
   },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2024-12-26 01:32:03 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/controller": {
     "criteria": {
       "has_chest": "2024-12-26 00:41:34 +0000"

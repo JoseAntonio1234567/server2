@@ -278,3 +278,30 @@
 [26Dec2024 01:29:02.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [26Dec2024 01:29:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [26Dec2024 01:31:52.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[26Dec2024 01:32:03.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[26Dec2024 01:32:03.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Astronaut]
+[26Dec2024 01:32:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [It Belongs in a Museum]
+[26Dec2024 01:32:34.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Disme A Dozen]
+[26Dec2024 01:34:12.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[26Dec2024 01:35:12.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[26Dec2024 01:35:12.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 4.616182434406255,0.0,8.93431150689014
+[26Dec2024 01:35:35.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7930ms or 158 ticks behind
+[26Dec2024 01:35:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[26Dec2024 01:35:53.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[26Dec2024 01:37:12.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was shot by Skeleton
+[26Dec2024 01:37:12.953] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[26Dec2024 01:37:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 01:38:08.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[26Dec2024 01:38:23.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 moved too quickly! 0.0965531897782057,0.0,-10.09568092748259
+[26Dec2024 01:38:34.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10991ms or 219 ticks behind
+[26Dec2024 01:38:55.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[26Dec2024 01:38:57.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was slain by Zombie
+[26Dec2024 01:38:57.103] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[26Dec2024 01:39:29.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has reached the goal [Chain Death]
+[26Dec2024 01:39:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was slain by Zombie
+[26Dec2024 01:39:29.817] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[26Dec2024 01:39:46.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Ashes 'n Bones]
+[26Dec2024 01:40:18.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Suit Up]
+[26Dec2024 01:40:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 01:40:35.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[26Dec2024 01:41:31.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
