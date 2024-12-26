@@ -258,3 +258,23 @@
 [26Dec2024 01:21:05.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [26Dec2024 01:21:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Enderman
 [26Dec2024 01:21:19.312] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[26Dec2024 01:22:09.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[26Dec2024 01:24:19.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[26Dec2024 01:24:22.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[26Dec2024 01:24:46.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [Pic-A-Nic Basket?]
+[26Dec2024 01:24:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 was slain by Grizzly Bear
+[26Dec2024 01:24:52.473] [Server thread/INFO] [tombstone/]: The player DeferentCurve07 has successfully been saved
+[26Dec2024 01:25:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to DeferentCurve07]
+[26Dec2024 01:25:56.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Dec2024 01:26:11.366] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands]] from pos BlockPos{x=7403, y=81, z=-795}
+[26Dec2024 01:26:11.621] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=7403, y=78, z=-794} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[26Dec2024 01:26:11.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=7403, y=78, z=-794}
+[26Dec2024 01:26:11.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=7402, y=78, z=-794} but found not block entity block Block{minecraft:stone} at location
+[26Dec2024 01:26:11.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=7402, y=78, z=-794}
+[26Dec2024 01:26:19.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=7403, y=81, z=-795} but found not block entity block Block{minecraft:air} at location
+[26Dec2024 01:26:19.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=7403, y=81, z=-795}
+[26Dec2024 01:26:20.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[26Dec2024 01:27:27.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 has made the advancement [A Strange Grave Dust]
+[26Dec2024 01:29:02.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Dec2024 01:29:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[26Dec2024 01:31:52.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

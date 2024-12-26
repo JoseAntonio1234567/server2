@@ -13741,6 +13741,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-26 01:24:25 +0000"
+    },
+    "done": true
+  },
   "ad_astra:rocket_science": {
     "criteria": {
       "has_nasa_workbench": "2024-12-25 23:28:53 +0000"
@@ -13996,6 +14002,12 @@
   "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
     "criteria": {
       "has_coal_block": "2024-12-26 00:20:56 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/oak_leaves_slab": {
+    "criteria": {
+      "has_oak_leaves": "2024-12-26 01:24:25 +0000"
     },
     "done": true
   },

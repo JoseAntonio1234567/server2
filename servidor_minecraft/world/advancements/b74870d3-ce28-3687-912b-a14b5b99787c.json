@@ -13173,6 +13173,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-26 01:17:32 +0000"
+    },
+    "done": true
+  },
   "create:chained_drain": {
     "criteria": {
       "0": "2024-12-26 00:51:04 +0000"
@@ -13206,6 +13212,12 @@
   "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
       "has_item": "2024-12-26 00:47:49 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-26 01:17:38 +0000"
     },
     "done": true
   },
