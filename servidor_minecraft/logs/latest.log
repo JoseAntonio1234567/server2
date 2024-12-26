@@ -2205,3 +2205,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [26Dec2024 23:32:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [26Dec2024 23:32:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
 [26Dec2024 23:43:07.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[26Dec2024 23:54:27.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/23002, l='ServerLevel[world]', x=6646.26, y=103.94, z=-623.67] died, message: 'Farmer was slain by Zombie'
+[26Dec2024 23:57:50.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
