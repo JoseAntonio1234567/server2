@@ -13432,6 +13432,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-26 22:39:01 +0000"
+    },
+    "done": true
+  },
   "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
     "criteria": {
       "has_coal_block": "2024-12-26 21:59:38 +0000"
