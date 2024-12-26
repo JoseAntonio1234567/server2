@@ -18426,3 +18426,8 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [26Dec2024 21:59:15.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@172bde78[id=<null>,name=marquitosTPMS,properties={},legacy=false] (/127.9.149.75:47629) lost connection: Disconnected
 [26Dec2024 22:03:36.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 22:03:36.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:08:36.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:08:36.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:12:27.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Copper Age]
+[26Dec2024 22:13:36.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:13:36.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

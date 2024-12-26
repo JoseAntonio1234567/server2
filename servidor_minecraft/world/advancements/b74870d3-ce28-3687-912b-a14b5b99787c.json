@@ -13378,6 +13378,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-26 22:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-26 21:59:38 +0000"
@@ -13402,9 +13408,21 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-26 22:12:27 +0000"
+    },
+    "done": true
+  },
   "exclusive_weapons_armor_and_tools:recipes/combat/super_coal_boots": {
     "criteria": {
       "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-26 22:12:31 +0000"
     },
     "done": true
   },
@@ -13426,6 +13444,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-26 22:12:31 +0000"
+    },
+    "done": true
+  },
   "super_ore_block:recipes/misc/coal_block_from_super_coal_block": {
     "criteria": {
       "has_super_coal_block": "2024-12-26 22:03:15 +0000"
@@ -13441,6 +13465,12 @@
   "exclusive_weapons_armor_and_tools:recipes/tools/super_coal_pickaxe": {
     "criteria": {
       "has_super_coal_block": "2024-12-26 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-12-26 22:12:31 +0000"
     },
     "done": true
   },
