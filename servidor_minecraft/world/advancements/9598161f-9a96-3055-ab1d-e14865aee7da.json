@@ -800,6 +800,7 @@
       "minecraft:savanna_plateau": "2024-12-26 01:15:10 +0000",
       "minecraft:river": "2024-12-26 00:31:55 +0000",
       "minecraft:snowy_plains": "2024-12-26 00:17:25 +0000",
+      "minecraft:dripstone_caves": "2024-12-27 15:31:51 +0000",
       "minecraft:forest": "2024-12-26 01:28:54 +0000",
       "minecraft:ice_spikes": "2024-12-26 00:18:57 +0000",
       "minecraft:frozen_ocean": "2024-12-26 00:21:27 +0000",
@@ -7682,15 +7683,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-27 15:34:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2024-12-27 15:23:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-27 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/endumium_block": {
+    "criteria": {
+      "has_endumium_crystal": "2024-12-27 15:29:47 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
       "has_peach": "2024-12-27 15:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-27 15:29:56 +0000"
     },
     "done": true
   },
@@ -7703,6 +7728,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-27 15:23:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-27 15:34:53 +0000"
     },
     "done": true
   },

@@ -803,6 +803,7 @@
       "minecraft:river": "2024-12-21 23:17:05 +0000",
       "minecraft:lukewarm_ocean": "2024-12-25 23:09:28 +0000",
       "minecraft:snowy_plains": "2024-12-21 22:52:33 +0000",
+      "minecraft:dripstone_caves": "2024-12-27 15:32:06 +0000",
       "minecraft:forest": "2024-12-25 23:18:00 +0000",
       "minecraft:flower_forest": "2024-12-25 18:08:50 +0000",
       "minecraft:deep_dark": "2024-12-23 00:18:55 +0000",
@@ -10741,9 +10742,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-27 15:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-27 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-27 15:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-27 15:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/endumium_block": {
+    "criteria": {
+      "has_endumium_crystal": "2024-12-27 15:30:47 +0000"
     },
     "done": true
   },

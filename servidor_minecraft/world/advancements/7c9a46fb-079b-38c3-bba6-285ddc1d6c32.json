@@ -14226,6 +14226,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2024-12-27 15:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-27 15:25:15 +0000"
@@ -14259,6 +14265,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2024-12-27 14:04:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-27 15:35:41 +0000"
     },
     "done": true
   },
