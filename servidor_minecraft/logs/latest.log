@@ -2142,3 +2142,9 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 01:39:35.023] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
 [27Dec2024 01:39:35.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
 [27Dec2024 01:40:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
+[27Dec2024 01:45:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[27Dec2024 01:46:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo blew up
+[27Dec2024 01:46:44.791] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[27Dec2024 01:46:44.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[27Dec2024 01:46:44.822] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[27Dec2024 01:46:48.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
