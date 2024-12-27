@@ -14286,6 +14286,12 @@
     },
     "done": true
   },
+  "farlanders:craft_nightfall_sword": {
+    "criteria": {
+      "craft_sword": "2024-12-27 16:36:01 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2024-12-27 15:35:41 +0000"

@@ -13666,6 +13666,12 @@
     },
     "done": true
   },
+  "farlanders:craft_nightfall_sword": {
+    "criteria": {
+      "craft_sword": "2024-12-27 16:35:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2024-12-27 15:58:13 +0000"
