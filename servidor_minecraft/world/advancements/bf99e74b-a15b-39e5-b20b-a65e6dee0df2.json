@@ -10171,12 +10171,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_sheet": {
-    "criteria": {
-      "has_black_sheet": "2024-12-26 21:22:18 +0000"
-    },
-    "done": true
-  },
   "croptopia:gather_all": {
     "criteria": {
       "cauliflower_seed": "2024-12-26 20:58:49 +0000"
@@ -10189,15 +10183,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_cushion": {
+  "croptopia:gather_forest": {
     "criteria": {
-      "has_black_cushion": "2024-12-26 21:22:18 +0000"
+      "cauliflower_seed": "2024-12-26 20:58:49 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2024-12-26 21:21:28 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-26 21:23:23 +0000"
+      "has_black_sheet": "2024-12-26 21:22:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-12-26 21:22:18 +0000"
     },
     "done": true
   },
@@ -10212,12 +10218,6 @@
       "has_black_wool": "2024-12-26 21:22:18 +0000"
     },
     "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "cauliflower_seed": "2024-12-26 20:58:49 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
@@ -10243,12 +10243,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-26 21:23:23 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2024-12-26 21:22:18 +0000"
@@ -10261,9 +10255,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "has_flower": "2024-12-26 21:21:28 +0000"
+      "has_enchanted_voodoo_poppet": "2024-12-26 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-26 21:23:23 +0000"
     },
     "done": true
   },

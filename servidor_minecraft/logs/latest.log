@@ -8,3 +8,14 @@
 [27Dec2024 00:15:54.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was doomed to fall by Iron Golem
 [27Dec2024 00:15:54.929] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [27Dec2024 00:28:45.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[27Dec2024 00:42:04.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:36799] logged in with entity id 42496 at (6654.293033867449, 111.0, -666.0351845072004)
+[27Dec2024 00:42:04.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to myser444
+[27Dec2024 00:42:04.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to myser444
+[27Dec2024 00:42:04.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to myser444
+[27Dec2024 00:42:04.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to myser444
+[27Dec2024 00:42:04.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to myser444
+[27Dec2024 00:42:04.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to myser444
+[27Dec2024 00:42:04.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to myser444
+[27Dec2024 00:42:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[27Dec2024 00:42:04.789] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[27Dec2024 00:42:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
