@@ -2148,3 +2148,8 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 01:46:44.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [27Dec2024 01:46:44.822] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [27Dec2024 01:46:48.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[27Dec2024 01:55:22.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[27Dec2024 01:55:22.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[27Dec2024 01:57:14.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[27Dec2024 02:00:29.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[27Dec2024 02:00:29.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
