@@ -18530,3 +18530,34 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 00:04:32.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 13000]
 [27Dec2024 00:06:27.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [27Dec2024 00:06:27.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[27Dec2024 00:08:38.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:08:38.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:10:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was doomed to fall by Zombie
+[27Dec2024 00:10:34.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[27Dec2024 00:10:34.762] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6581, y:48, z:-741, dim:minecraft:overworld]
+[27Dec2024 00:10:34.785] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[27Dec2024 00:10:36.107] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[27Dec2024 00:10:36.457] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[27Dec2024 00:10:36.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[27Dec2024 00:10:39.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[27Dec2024 00:10:39.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[27Dec2024 00:10:40.392] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[27Dec2024 00:11:21.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[27Dec2024 00:11:21.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[27Dec2024 00:11:35.554] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[27Dec2024 00:12:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[27Dec2024 00:13:12.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[27Dec2024 00:13:38.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:13:38.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:15:54.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was doomed to fall by Iron Golem
+[27Dec2024 00:15:54.927] [Server thread/DEBUG] [tombstone/]: A new grave of the player carloselpillo was created at position [x:6568, y:83, z:-708, dim:minecraft:overworld]
+[27Dec2024 00:15:54.929] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[27Dec2024 00:15:56.505] [Server thread/DEBUG] [twilightforest/]: Player carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c) respawned and received items held in storage
+[27Dec2024 00:15:56.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[27Dec2024 00:15:56.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[27Dec2024 00:15:56.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[27Dec2024 00:15:57.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[27Dec2024 00:16:00.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[27Dec2024 00:16:00.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[27Dec2024 00:16:01.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[27Dec2024 00:16:01.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
