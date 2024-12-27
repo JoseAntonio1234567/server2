@@ -2107,3 +2107,17 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 01:08:31.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [27Dec2024 01:12:20.961] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [27Dec2024 01:12:20.976] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[27Dec2024 01:13:03.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[27Dec2024 01:13:03.867] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[27Dec2024 01:13:25.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[27Dec2024 01:13:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <myser444> time set day
+[27Dec2024 01:13:31.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[27Dec2024 01:13:38.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[27Dec2024 01:15:16.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[27Dec2024 01:16:32.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[27Dec2024 01:17:13.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6706, y=121, z=-669} BlockPos{x=6706, y=121, z=-670}
+[27Dec2024 01:17:13.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6706, y=121, z=-669} BlockPos{x=6706, y=121, z=-670}
+[27Dec2024 01:17:16.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6710, y=120, z=-670} BlockPos{x=6709, y=121, z=-669}
+[27Dec2024 01:17:16.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6710, y=120, z=-671} BlockPos{x=6708, y=120, z=-671}
+[27Dec2024 01:18:00.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6698, y=121, z=-688} BlockPos{x=6697, y=121, z=-687}
+[27Dec2024 01:18:00.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6698, y=121, z=-688} BlockPos{x=6697, y=121, z=-687}
