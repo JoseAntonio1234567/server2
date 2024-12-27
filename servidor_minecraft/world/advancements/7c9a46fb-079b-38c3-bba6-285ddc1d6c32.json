@@ -14215,5 +14215,17 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2024-12-27 14:04:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-27 14:04:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

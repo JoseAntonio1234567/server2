@@ -2165,3 +2165,5 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 13:57:09.856] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [27Dec2024 13:57:09.892] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [27Dec2024 13:57:15.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[27Dec2024 14:00:18.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[27Dec2024 14:02:09.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult

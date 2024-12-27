@@ -17650,3 +17650,11 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 13:57:23.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
 [27Dec2024 13:57:23.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
 [27Dec2024 13:57:23.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[27Dec2024 13:58:58.542] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/VanillaHopperItemHandler (target of net/minecraftforge/items/IItemHandler)
+[27Dec2024 14:00:18.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[27Dec2024 14:01:57.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 14:01:57.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 14:02:09.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[27Dec2024 14:03:47.494] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/geforcemods/securitycraft/inventory/InsertOnlyInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[27Dec2024 14:06:57.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 14:06:57.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
