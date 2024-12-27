@@ -824,6 +824,7 @@
       "shrubland": "2024-12-25 23:23:40 +0000",
       "rocky_shrubland": "2024-12-25 23:27:15 +0000",
       "erupting_inferno": "2024-12-25 17:00:34 +0000",
+      "old_growth_woodland": "2024-12-27 16:27:06 +0000",
       "crystalline_chasm": "2024-12-25 16:56:45 +0000",
       "lavender_forest": "2024-12-25 18:08:12 +0000",
       "mediterranean_forest": "2024-12-21 22:54:38 +0000",
@@ -10778,6 +10779,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-27 16:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-27 15:18:24 +0000"
@@ -11039,6 +11046,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-27 15:30:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-27 16:22:34 +0000"
     },
     "done": true
   },
