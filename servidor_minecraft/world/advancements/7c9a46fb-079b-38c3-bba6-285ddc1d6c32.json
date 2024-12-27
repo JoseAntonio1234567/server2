@@ -14226,9 +14226,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
       "has_bookshelf": "2024-12-27 14:04:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
     },
     "done": true
   },
@@ -14244,15 +14262,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-27 14:38:10 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-27 14:38:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 15:25:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-27 15:25:15 +0000"
     },
     "done": true
   },
