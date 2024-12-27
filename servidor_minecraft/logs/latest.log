@@ -2146,3 +2146,22 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 13:44:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set own game mode to Creative Mode]
 [27Dec2024 13:44:37.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [27Dec2024 13:47:12.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[27Dec2024 13:52:04.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[27Dec2024 13:56:04.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DeferentCurve07: Set own game mode to Survival Mode]
+[27Dec2024 13:56:18.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.136.15.22:53719] logged in with entity id 4403 at (6667.300000011921, 116.0, -607.757702681529)
+[27Dec2024 13:56:18.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to joselete123
+[27Dec2024 13:56:18.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to joselete123
+[27Dec2024 13:56:18.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to joselete123
+[27Dec2024 13:56:18.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to joselete123
+[27Dec2024 13:56:18.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to joselete123
+[27Dec2024 13:56:18.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to joselete123
+[27Dec2024 13:56:18.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to joselete123
+[27Dec2024 13:56:18.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[27Dec2024 13:56:18.328] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[27Dec2024 13:56:52.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeferentCurve07 lost connection: Disconnected
+[27Dec2024 13:56:52.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 left the game
+[27Dec2024 13:57:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 blew up
+[27Dec2024 13:57:09.844] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[27Dec2024 13:57:09.856] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[27Dec2024 13:57:09.892] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[27Dec2024 13:57:15.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget

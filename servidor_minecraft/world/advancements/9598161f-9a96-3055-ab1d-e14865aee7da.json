@@ -3105,6 +3105,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-26 00:31:32 +0000",
+      "cooked_beef": "2024-12-27 13:56:49 +0000",
       "baked_potato": "2024-12-26 01:31:22 +0000",
       "apple": "2024-12-26 01:37:17 +0000",
       "bread": "2024-12-26 00:39:53 +0000"
@@ -7533,6 +7534,84 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-27 13:32:08 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_ore_block": {
+    "criteria": {
+      "has_diamond_block": "2024-12-27 13:50:54 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
+    "criteria": {
+      "has_diamond_block": "2024-12-27 13:50:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-12-27 13:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 13:51:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-27 13:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 13:51:24 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_iron_block_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 13:51:24 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2024-12-27 13:50:54 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-27 13:51:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-27 13:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-27 13:50:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-27 13:49:58 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 13:51:24 +0000"
     },
     "done": true
   },
