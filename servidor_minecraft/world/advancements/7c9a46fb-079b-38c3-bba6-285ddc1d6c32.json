@@ -827,6 +827,7 @@
     "criteria": {
       "woodland": "2024-12-22 21:36:45 +0000",
       "shrubland": "2024-12-26 00:44:16 +0000",
+      "rocky_shrubland": "2024-12-27 14:24:08 +0000",
       "scrubland": "2024-12-08 14:47:10 +0000",
       "erupting_inferno": "2024-12-25 17:00:23 +0000",
       "cold_desert": "2024-12-08 14:45:12 +0000",
@@ -14218,6 +14219,12 @@
   "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
       "has_bookshelf": "2024-12-27 14:04:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-27 14:13:11 +0000"
     },
     "done": true
   },

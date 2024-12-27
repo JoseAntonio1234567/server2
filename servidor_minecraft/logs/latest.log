@@ -2167,3 +2167,28 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 [27Dec2024 13:57:15.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [27Dec2024 14:00:18.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [27Dec2024 14:02:09.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[27Dec2024 14:09:49.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[27Dec2024 14:12:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[27Dec2024 14:12:23.734] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[27Dec2024 14:12:23.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[27Dec2024 14:12:23.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[27Dec2024 14:12:23.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[27Dec2024 14:13:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Pic-A-Nic Basket?]
+[27Dec2024 14:19:01.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeferentCurve07[/127.191.128.44:34545] logged in with entity id 10057 at (6661.78952220629, 119.0, -661.5287159456867)
+[27Dec2024 14:19:01.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DeferentCurve07
+[27Dec2024 14:19:01.603] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DeferentCurve07
+[27Dec2024 14:19:01.604] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DeferentCurve07
+[27Dec2024 14:19:01.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DeferentCurve07
+[27Dec2024 14:19:01.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DeferentCurve07
+[27Dec2024 14:19:01.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DeferentCurve07
+[27Dec2024 14:19:01.619] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DeferentCurve07
+[27Dec2024 14:19:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeferentCurve07 joined the game
+[27Dec2024 14:19:01.724] [Server thread/INFO] [Jade/]: Syncing config to DeferentCurve07 (9598161f-9a96-3055-ab1d-e14865aee7da)
+[27Dec2024 14:19:05.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[27Dec2024 14:19:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <joselete123> :monka_gun::monka_gun::monka_gun:
+[27Dec2024 14:20:29.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -1.7328927977696367,-1.2468000194787976,-9.924619803297787
+[27Dec2024 14:20:42.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -8.871921255193229,0.20326439933129592,-4.681766473213088
+[27Dec2024 14:20:54.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -9.442144301899134,0.0,-3.4089788685699887
+[27Dec2024 14:21:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[27Dec2024 14:22:03.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Dec2024 14:27:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
