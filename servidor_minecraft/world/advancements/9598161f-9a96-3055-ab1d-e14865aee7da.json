@@ -804,7 +804,8 @@
       "minecraft:ice_spikes": "2024-12-26 00:18:57 +0000",
       "minecraft:frozen_ocean": "2024-12-26 00:21:27 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-26 00:18:46 +0000",
-      "minecraft:savanna": "2024-12-26 00:31:42 +0000"
+      "minecraft:savanna": "2024-12-26 00:31:42 +0000",
+      "minecraft:plains": "2024-12-27 14:37:55 +0000"
     },
     "done": false
   },
@@ -7612,6 +7613,24 @@
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2024-12-27 13:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-27 14:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-27 14:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-27 14:33:50 +0000"
     },
     "done": true
   },
