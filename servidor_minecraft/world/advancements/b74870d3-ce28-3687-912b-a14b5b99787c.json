@@ -13408,6 +13408,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-27 00:21:07 +0000"
+    },
+    "done": true
+  },
   "exclusive_weapons_armor_and_tools:recipes/tools/super_coal_hoe": {
     "criteria": {
       "has_super_coal_block": "2024-12-26 22:03:15 +0000"
@@ -13417,6 +13423,12 @@
   "new_slab_variants:recipes/building_blocks/coal_block_slab": {
     "criteria": {
       "has_coal_block": "2024-12-26 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-27 00:21:07 +0000"
     },
     "done": true
   },
