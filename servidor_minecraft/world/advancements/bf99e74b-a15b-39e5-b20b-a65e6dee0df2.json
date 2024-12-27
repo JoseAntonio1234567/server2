@@ -10495,15 +10495,39 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/gold_mine": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_mine": "2024-12-27 01:33:57 +0000"
+      "has_gunpowder": "2024-12-27 01:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 01:16:32 +0000"
     },
     "done": true
   },
   "ad_astra:tier_1_rocket": {
     "criteria": {
       "has_tier_1_rocket": "2024-12-27 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2024-12-27 01:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-27 01:30:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-27 01:33:57 +0000"
     },
     "done": true
   },
@@ -10549,12 +10573,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-27 01:16:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
     "criteria": {
       "has_mine": "2024-12-27 01:33:57 +0000"
@@ -10576,12 +10594,6 @@
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2024-12-27 01:33:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-27 01:30:56 +0000"
     },
     "done": true
   },
@@ -10726,18 +10738,6 @@
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
       "has_mine": "2024-12-27 01:33:57 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/concrete": {
-    "criteria": {
-      "has_planks": "2024-12-27 01:30:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-27 01:16:32 +0000"
     },
     "done": true
   },
